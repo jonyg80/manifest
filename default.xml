@@ -120,6 +120,7 @@
   <project name="platform/development" />
   <project name="platform/docs/source.android.com" />
   <project name="platform/external/AntennaPod/AntennaPod" />
+  <project name="platform/external/AntennaPod/AudioPlayer" />
   <project name="platform/external/aac" />
   <project name="platform/external/actionbarsherlock" />
   <project name="platform/external/adt-infra" />
