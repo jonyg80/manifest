@@ -64,6 +64,7 @@
   <project name="device/lge/mako" />
   <project name="device/lge/mako-kernel" />
   <project name="device/linaro/hikey" />
+  <project name="device/linaro/hikey-kernel" />
   <project name="device/moto/common" />
   <project name="device/moto/shamu" />
   <project name="device/moto/shamu-kernel" />
