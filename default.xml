@@ -89,6 +89,7 @@
   <project name="kernel/common" />
   <project name="kernel/exynos" />
   <project name="kernel/goldfish" />
+  <project name="kernel/hikey-linaro" />
   <project name="kernel/lk" />
   <project name="kernel/manifest" />
   <project name="kernel/mediatek" />
