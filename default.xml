@@ -472,6 +472,9 @@
   <project name="platform/external/selinux" />
   <project name="platform/external/sepolicy" />
   <project name="platform/external/sfntly" />
+  <project name="platform/external/shaderc/glslang" />
+  <project name="platform/external/shaderc/spirv-tools" />
+  <project name="platform/external/shaderc/shaderc" />
   <project name="platform/external/shflags" />
   <project name="platform/external/sil-fonts" />
   <project name="platform/external/skia" />
