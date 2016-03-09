@@ -330,6 +330,7 @@
   <project name="platform/external/jsmn" />
   <project name="platform/external/jsoncpp" />
   <project name="platform/external/jsr305" />
+  <project name="platform/external/jsr330" />
   <project name="platform/external/junit" />
   <project name="platform/external/kernel-headers" />
   <project name="platform/external/ksoap2" />
