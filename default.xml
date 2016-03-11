@@ -16,6 +16,7 @@
   <project name="device/asus/fugu-kernel" />
   <project name="device/asus/grouper" />
   <project name="device/asus/tilapia" />
+  <project name="device/casio/koi-uboot" />
   <project name="device/common" />
   <project name="device/freescale/picoimx" />
   <project name="device/generic/arm64" />
