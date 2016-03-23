@@ -360,7 +360,6 @@
   <project name="platform/external/libhevc" />
   <project name="platform/external/liblzf" />
   <project name="platform/external/libmicrohttpd" />
-  <project name="platform/external/libmincrypt" />
   <project name="platform/external/libmojo" />
   <project name="platform/external/libmpeg2" />
   <project name="platform/external/libmtp" />
