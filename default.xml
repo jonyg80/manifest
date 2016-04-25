@@ -320,6 +320,14 @@
   <project name="platform/external/javassist" />
   <project name="platform/external/jcommander" />
   <project name="platform/external/jdiff" />
+  <project name="platform/external/jetbrains/jdk8u" />
+  <project name="platform/external/jetbrains/jdk8u_corba" />
+  <project name="platform/external/jetbrains/jdk8u_hotspot" />
+  <project name="platform/external/jetbrains/jdk8u_jaxp" />
+  <project name="platform/external/jetbrains/jdk8u_jaxws" />
+  <project name="platform/external/jetbrains/jdk8u_jdk" />
+  <project name="platform/external/jetbrains/jdk8u_langtools" />
+  <project name="platform/external/jetbrains/jdk8u_nashorn" />
   <project name="platform/external/jemalloc" />
   <project name="platform/external/jenkins-hash" />
   <project name="platform/external/jetty" />
@@ -906,6 +914,7 @@
   <project name="platform/prebuilts/qemu-kernel" />
   <project name="platform/prebuilts/runtime" />
   <project name="platform/prebuilts/sdk" />
+  <project name="platform/prebuilts/studio/jdk" />
   <project name="platform/prebuilts/swig/darwin-x86" />
   <project name="platform/prebuilts/swig/linux-x86" />
   <project name="platform/prebuilts/swig/windows-x86" />
