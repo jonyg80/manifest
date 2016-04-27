@@ -1025,6 +1025,7 @@
   <project name="trusty/app/keymaster" />
   <project name="trusty/app/nvram" />
   <project name="trusty/app/sample" />
+  <project name="trusty/app/storage" />
   <project name="trusty/device/arm/generic-arm64" />
   <project name="trusty/device/arm/vexpress-a15" />
   <project name="trusty/external/headers" />
