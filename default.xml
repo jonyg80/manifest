@@ -943,6 +943,7 @@
   <project name="platform/system/security" />
   <project name="platform/system/sepolicy" />
   <project name="platform/system/tools/aidl" />
+  <project name="platform/system/tools/bpt" />
   <project name="platform/system/tpm" />
   <project name="platform/system/tpm_manager" />
   <project name="platform/system/trunks" />
