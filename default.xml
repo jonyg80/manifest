@@ -489,6 +489,7 @@
   <project name="platform/external/sepolicy" />
   <project name="platform/external/sfntly" />
   <project name="platform/external/shaderc/glslang" />
+  <project name="platform/external/shaderc/spirv-headers" />
   <project name="platform/external/shaderc/spirv-tools" />
   <project name="platform/external/shaderc/shaderc" />
   <project name="platform/external/shflags" />
