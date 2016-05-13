@@ -997,6 +997,7 @@
   <project name="toolchain/build" />
   <project name="toolchain/ccache" />
   <project name="toolchain/clang" />
+  <project name="toolchain/clang-tools-extra" />
   <project name="toolchain/cloog" />
   <project name="toolchain/compiler-rt" />
   <project name="toolchain/expat" />
