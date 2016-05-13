@@ -1008,6 +1008,7 @@
   <project name="toolchain/jack" />
   <project name="toolchain/jack-server" />
   <project name="toolchain/jill" />
+  <project name="toolchain/libcxx" />
   <project name="toolchain/llvm" />
   <project name="toolchain/manifest" />
   <project name="toolchain/mclinker" />
