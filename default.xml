@@ -266,6 +266,7 @@
   <project name="platform/external/fec" />
   <project name="platform/external/fio" />
   <project name="platform/external/flac" />
+  <project name="platform/external/flashbench" />
   <project name="platform/external/fonttools" />
   <project name="platform/external/free-image" />
   <project name="platform/external/freetype" />
