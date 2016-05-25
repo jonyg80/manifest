@@ -1026,6 +1026,7 @@
   <project name="toolchain/python" />
   <project name="toolchain/sed" />
   <project name="toolchain/valgrind" />
+  <project name="toolchain/xz" />
   <project name="toolchain/yasm" />
   <project name="tools/aospstats" />
   <project name="tools/repo" />
