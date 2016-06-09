@@ -933,6 +933,7 @@
   <project name="platform/system/connectivity/shill" />
   <project name="platform/system/connectivity/wificond" />
   <project name="platform/system/core" />
+  <project name="platform/system/crash_reporter" />
   <project name="platform/system/extras" />
   <project name="platform/system/firewalld" />
   <project name="platform/system/gatekeeper" />
