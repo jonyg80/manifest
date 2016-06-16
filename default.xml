@@ -920,6 +920,7 @@
   <project name="platform/prebuilts/runtime" />
   <project name="platform/prebuilts/sdk" />
   <project name="platform/prebuilts/studio/jdk" />
+  <project name="platform/prebuilts/studio/layoutlib" />
   <project name="platform/prebuilts/swig/darwin-x86" />
   <project name="platform/prebuilts/swig/linux-x86" />
   <project name="platform/prebuilts/swig/windows-x86" />
