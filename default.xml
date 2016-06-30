@@ -64,6 +64,7 @@
   <project name="device/lge/hammerhead-kernel" />
   <project name="device/lge/mako" />
   <project name="device/lge/mako-kernel" />
+  <project name="device/linaro/bootloader/OpenPlatformPkg" />
   <project name="device/linaro/bootloader/arm-trusted-firmware" />
   <project name="device/linaro/bootloader/edk2" />
   <project name="device/linaro/hikey" />
