@@ -923,6 +923,7 @@
   <project name="platform/prebuilts/qemu-kernel" />
   <project name="platform/prebuilts/runtime" />
   <project name="platform/prebuilts/sdk" />
+  <project name="platform/prebuilts/simpleperf" />
   <project name="platform/prebuilts/studio/jdk" />
   <project name="platform/prebuilts/studio/layoutlib" />
   <project name="platform/prebuilts/swig/darwin-x86" />
