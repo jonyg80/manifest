@@ -348,6 +348,7 @@
   <project name="platform/external/jsr305" />
   <project name="platform/external/jsr330" />
   <project name="platform/external/junit" />
+  <project name="platform/external/junit-params" />
   <project name="platform/external/kernel-headers" />
   <project name="platform/external/ksoap2" />
   <project name="platform/external/lame" />
