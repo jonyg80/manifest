@@ -374,6 +374,7 @@
   <project name="platform/external/libffi" />
   <project name="platform/external/libgsm" />
   <project name="platform/external/libhevc" />
+  <project name="platform/external/libiota" />
   <project name="platform/external/liblzf" />
   <project name="platform/external/libmicrohttpd" />
   <project name="platform/external/libmojo" />
