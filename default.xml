@@ -969,6 +969,7 @@
   <project name="platform/system/webservd" />
   <project name="platform/system/wifi" />
   <project name="platform/system/wlan/ti" />
+  <project name="platform/test/AfwTestHarness" />
   <project name="platform/tools/adt/eclipse" />
   <project name="platform/tools/adt/idea" />
   <project name="platform/tools/apksig" />
