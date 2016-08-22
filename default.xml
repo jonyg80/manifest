@@ -152,6 +152,7 @@
   <project name="platform/external/apache-qp" />
   <project name="platform/external/apache-xml" />
   <project name="platform/external/apple-coreaudiosamples" />
+  <project name="platform/external/archive-patcher" />
   <project name="platform/external/arduino" />
   <project name="platform/external/arduino-ide" />
   <project name="platform/external/astl" />
