@@ -954,6 +954,7 @@
   <project name="platform/system/connectivity/dhcp_client" />
   <project name="platform/system/connectivity/shill" />
   <project name="platform/system/connectivity/wificond" />
+  <project name="platform/system/connectivity/wifilogd" />
   <project name="platform/system/core" />
   <project name="platform/system/crash_reporter" />
   <project name="platform/system/extras" />
