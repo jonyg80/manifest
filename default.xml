@@ -963,6 +963,7 @@
   <project name="platform/system/hwservicemanager" />
   <project name="platform/system/keyguard" />
   <project name="platform/system/keymaster" />
+  <project name="platform/system/libhwbinder" />
   <project name="platform/system/media" />
   <project name="platform/system/metricsd" />
   <project name="platform/system/nativepower" />
