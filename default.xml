@@ -134,6 +134,7 @@
   <project name="platform/external/AntennaPod/AntennaPod" />
   <project name="platform/external/AntennaPod/AudioPlayer" />
   <project name="platform/external/AntennaPod/afollestad" />
+  <project name="platform/external/ImageMagick" />
   <project name="platform/external/Mako" />
   <project name="platform/external/Microsoft-GSL" />
   <project name="platform/external/aac" />
