@@ -554,6 +554,7 @@
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
   <project name="platform/external/unicode" />
+  <project name="platform/external/universal-tween-engine" />
   <project name="platform/external/utf8proc" />
   <project name="platform/external/v8" />
   <project name="platform/external/valgrind" />
