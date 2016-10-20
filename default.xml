@@ -955,6 +955,7 @@
   <project name="platform/prebuilts/qemu-kernel" />
   <project name="platform/prebuilts/renderscript/host/darwin-x86" />
   <project name="platform/prebuilts/renderscript/host/linux-x86" />
+  <project name="platform/prebuilts/renderscript/host/windows-x86" />
   <project name="platform/prebuilts/runtime" />
   <project name="platform/prebuilts/sdk" />
   <project name="platform/prebuilts/simpleperf" />
