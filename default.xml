@@ -46,6 +46,7 @@
   <project name="device/google/debugcable" />
   <project name="device/google/dragon" />
   <project name="device/google/dragon-kernel" />
+  <project name="device/google/marlin" />
   <project name="device/google/phantasm" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />
