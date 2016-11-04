@@ -529,6 +529,7 @@
   <project name="platform/external/sonic" />
   <project name="platform/external/sonivox" />
   <project name="platform/external/speex" />
+  <project name="platform/external/spirv-llvm" />
   <project name="platform/external/sqlite" />
   <project name="platform/external/squashfs-tools" />
   <project name="platform/external/srec" />
