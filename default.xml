@@ -684,6 +684,7 @@
   <project name="platform/hardware/qcom/bootctrl" />
   <project name="platform/hardware/qcom/bt" />
   <project name="platform/hardware/qcom/camera" />
+  <project name="platform/hardware/qcom/data/ipacfg-mgr" />
   <project name="platform/hardware/qcom/display" />
   <project name="platform/hardware/qcom/gps" />
   <project name="platform/hardware/qcom/keymaster" />
