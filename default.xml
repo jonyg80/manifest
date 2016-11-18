@@ -231,7 +231,7 @@
   <project name="platform/external/chromium_org/v8" />
   <project name="platform/external/cibu-fonts" />
   <project name="platform/external/clang" />
-  <project name="platform/external/clang_tools_extra" />
+  <project name="platform/external/clang-tools-extra" />
   <project name="platform/external/clang_35a" />
   <project name="platform/external/clearsilver" />
   <project name="platform/external/cmake" />
