@@ -231,6 +231,7 @@
   <project name="platform/external/chromium_org/v8" />
   <project name="platform/external/cibu-fonts" />
   <project name="platform/external/clang" />
+  <project name="platform/external/clang_tools_extra" />
   <project name="platform/external/clang_35a" />
   <project name="platform/external/clearsilver" />
   <project name="platform/external/cmake" />
@@ -478,6 +479,7 @@
   <project name="platform/external/opencv" />
   <project name="platform/external/opencv3" />
   <project name="platform/external/openfst" />
+  <project name="platform/external/openmp_llvm" />
   <project name="platform/external/openssh" />
   <project name="platform/external/openssl" />
   <project name="platform/external/openvpn" />
