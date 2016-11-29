@@ -110,7 +110,6 @@
   <project name="kernel/x86" />
   <project name="kernel/x86_64" />
   <project name="mirror/manifest" />
-  <project name="packages/services/BuiltInPrintService" />
   <project name="platform/abi/cpp" />
   <project name="platform/art" />
   <project name="platform/bbuildbot_config" />
