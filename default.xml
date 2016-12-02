@@ -26,6 +26,7 @@
   <project name="device/generic/brillo" />
   <project name="device/generic/common" />
   <project name="device/generic/goldfish" />
+  <project name="device/generic/goldfish-opengl" />
   <project name="device/generic/mini-emulator-arm64" />
   <project name="device/generic/mini-emulator-armv7-a-neon" />
   <project name="device/generic/mini-emulator-mips" />
