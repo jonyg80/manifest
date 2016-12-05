@@ -1023,6 +1023,7 @@
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/vts" />
+  <project name="platform/test/vts-testcase/fuzz" />
   <project name="platform/test/vts-testcase/performance" />
   <project name="platform/tools/adt/eclipse" />
   <project name="platform/tools/adt/idea" />
