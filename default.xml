@@ -1119,6 +1119,7 @@
   <project name="trusty/device/arm/vexpress-a15" />
   <project name="trusty/external/headers" />
   <project name="trusty/external/qemu" />
+  <project name="trusty/extras/simple-tipc" />
   <project name="trusty/lib" />
   <project name="trusty/lk/common" />
   <project name="trusty/lk/trusty" />
