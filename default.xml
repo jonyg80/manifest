@@ -378,6 +378,7 @@
   <project name="platform/external/libchrome" />
   <project name="platform/external/libchromeos" />
   <project name="platform/external/libconstrainedcrypto" />
+  <project name="platform/external/libcups" />
   <project name="platform/external/libcxx" />
   <project name="platform/external/libcxx_35a" />
   <project name="platform/external/libcxxabi" />
