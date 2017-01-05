@@ -141,6 +141,7 @@
   <project name="platform/external/Microsoft-GSL" />
   <project name="platform/external/Microsoft-unittest-cpp" />
   <project name="platform/external/aac" />
+  <project name="platform/external/abi-compliance-checker" />
   <project name="platform/external/actionbarsherlock" />
   <project name="platform/external/adt-infra" />
   <project name="platform/external/aes" />
