@@ -848,6 +848,7 @@
   <project name="platform/prebuilts/android-emulator-build/qt" />
   <project name="platform/prebuilts/au-generator" />
   <project name="platform/prebuilts/build-tools" />
+  <project name="platform/prebuilts/checkcolor" />
   <project name="platform/prebuilts/checkstyle" />
   <project name="platform/prebuilts/clang/darwin-x86/3.1" />
   <project name="platform/prebuilts/clang/darwin-x86/3.2" />
