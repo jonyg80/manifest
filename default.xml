@@ -1123,6 +1123,7 @@
   <project name="trusty/app/storage" />
   <project name="trusty/device/arm/generic-arm64" />
   <project name="trusty/device/arm/vexpress-a15" />
+  <project name="trusty/device/nxp/imx6ul" />
   <project name="trusty/external/headers" />
   <project name="trusty/external/qemu" />
   <project name="trusty/extras/simple-tipc" />
