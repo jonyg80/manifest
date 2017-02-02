@@ -1033,6 +1033,7 @@
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/vts" />
   <project name="platform/test/vts-testcase/fuzz" />
+  <project name="platform/test/vts-testcase/hal" />
   <project name="platform/test/vts-testcase/kernel" />
   <project name="platform/test/vts-testcase/performance" />
   <project name="platform/test/vts-testcase/security" />
