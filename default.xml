@@ -407,6 +407,7 @@
   <project name="platform/external/libmtp" />
   <project name="platform/external/libnfc-nci" />
   <project name="platform/external/libnfc-nxp" />
+  <project name="platform/external/libnfnetlink" />
   <project name="platform/external/libnl" />
   <project name="platform/external/libnl-headers" />
   <project name="platform/external/libogg" />
