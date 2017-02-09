@@ -1110,6 +1110,7 @@
   <project name="toolchain/perl" />
   <project name="toolchain/polly" />
   <project name="toolchain/ppl" />
+  <project name="toolchain/prebuilts/ndk" />
   <project name="toolchain/python" />
   <project name="toolchain/sed" />
   <project name="toolchain/valgrind" />
