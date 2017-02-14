@@ -567,6 +567,7 @@
   <project name="platform/external/tpm2" />
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
+  <project name="platform/external/u-boot" />
   <project name="platform/external/unicode" />
   <project name="platform/external/universal-tween-engine" />
   <project name="platform/external/utf8proc" />
