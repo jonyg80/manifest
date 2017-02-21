@@ -406,6 +406,7 @@
   <project name="platform/external/libmojo" />
   <project name="platform/external/libmpeg2" />
   <project name="platform/external/libmtp" />
+  <project name="platform/external/libnetfilter_conntrack" />
   <project name="platform/external/libnfc-nci" />
   <project name="platform/external/libnfc-nxp" />
   <project name="platform/external/libnfnetlink" />
