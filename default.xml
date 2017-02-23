@@ -649,6 +649,7 @@
   <project name="platform/hardware/akm" />
   <project name="platform/hardware/broadcom/libbt" />
   <project name="platform/hardware/broadcom/wlan" />
+  <project name="platform/hardware/bsp/bootloader/intel/edison-u-boot" />
   <project name="platform/hardware/bsp/broadcom" />
   <project name="platform/hardware/bsp/freescale" />
   <project name="platform/hardware/bsp/imagination" />
