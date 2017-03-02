@@ -1015,6 +1015,7 @@
   <project name="platform/system/gatekeeper" />
   <project name="platform/system/hardware/interfaces" />
   <project name="platform/system/hwservicemanager" />
+  <project name="platform/system/iot/mtdutils" />
   <project name="platform/system/keyguard" />
   <project name="platform/system/keymaster" />
   <project name="platform/system/libfmq" />
