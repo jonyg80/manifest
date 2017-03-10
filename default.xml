@@ -1089,6 +1089,7 @@
   <project name="platform/tools/studio/google/samples" />
   <project name="platform/tools/studio/google/services" />
   <project name="platform/tools/studio/translation" />
+  <project name="platform/tools/swing-testing" />
   <project name="platform/tools/swt" />
   <project name="platform/tools/test/connectivity" />
   <project name="platform/tools/tradefederation" />
