@@ -634,6 +634,7 @@
   <project name="platform/frameworks/opt/mms" />
   <project name="platform/frameworks/opt/net/ethernet" />
   <project name="platform/frameworks/opt/net/ims" />
+  <project name="platform/frameworks/opt/net/lowpan" />
   <project name="platform/frameworks/opt/net/voip" />
   <project name="platform/frameworks/opt/net/wifi" />
   <project name="platform/frameworks/opt/photoviewer" />
