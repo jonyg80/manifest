@@ -289,6 +289,7 @@
   <project name="platform/external/fio" />
   <project name="platform/external/flac" />
   <project name="platform/external/flashbench" />
+  <project name="platform/external/flatbuffers" />
   <project name="platform/external/fmtlib" />
   <project name="platform/external/fonttools" />
   <project name="platform/external/free-image" />
