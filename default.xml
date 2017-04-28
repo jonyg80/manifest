@@ -1056,6 +1056,7 @@
   <project name="platform/system/wifi" />
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
+  <project name="platform/test/vti/dashboard" />
   <project name="platform/test/vts" />
   <project name="platform/test/vts-testcase/fuzz" />
   <project name="platform/test/vts-testcase/hal" />
