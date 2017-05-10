@@ -1109,6 +1109,7 @@
   <project name="platform/tools/test/connectivity" />
   <project name="platform/tools/tradefederation" />
   <project name="platform/tools/tradefederation/contrib" />
+  <project name="platform/vendor/google_devices/cuttlefish_common" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
