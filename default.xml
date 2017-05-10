@@ -44,6 +44,7 @@
   <project name="device/google/accessory/demokit" />
   <project name="device/google/atv" />
   <project name="device/google/contexthub" />
+  <project name="device/google/cuttlefish" />
   <project name="device/google/cuttlefish_common" />
   <project name="device/google/cuttlefish_kernel" />
   <project name="device/google/debugcable" />
