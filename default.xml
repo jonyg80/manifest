@@ -44,9 +44,6 @@
   <project name="device/google/accessory/demokit" />
   <project name="device/google/atv" />
   <project name="device/google/contexthub" />
-  <project name="device/google/cuttlefish" />
-  <project name="device/google/cuttlefish_common" />
-  <project name="device/google/cuttlefish_kernel" />
   <project name="device/google/debugcable" />
   <project name="device/google/dragon" />
   <project name="device/google/dragon-kernel" />
@@ -149,7 +146,6 @@
   <project name="platform/external/actionbarsherlock" />
   <project name="platform/external/adt-infra" />
   <project name="platform/external/aes" />
-  <project name="platform/external/alac" />
   <project name="platform/external/alsa-lib" />
   <project name="platform/external/android-clat" />
   <project name="platform/external/android-cmake" />
@@ -786,7 +782,6 @@
   <project name="platform/packages/apps/Launcher3" />
   <project name="platform/packages/apps/LegacyCamera" />
   <project name="platform/packages/apps/ManagedProvisioning" />
-  <project name="platform/packages/apps/McLauncher" />
   <project name="platform/packages/apps/Messaging" />
   <project name="platform/packages/apps/Mms" />
   <project name="platform/packages/apps/Music" />
@@ -1109,7 +1104,6 @@
   <project name="platform/tools/test/connectivity" />
   <project name="platform/tools/tradefederation" />
   <project name="platform/tools/tradefederation/contrib" />
-  <project name="platform/vendor/google_devices/cuttlefish_common" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
