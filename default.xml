@@ -1062,6 +1062,7 @@
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/vti/dashboard" />
+  <project name="platform/test/vti/fuzz_test_serving" />
   <project name="platform/test/vti/test_serving" />
   <project name="platform/test/vts" />
   <project name="platform/test/vts-testcase/fuzz" />
