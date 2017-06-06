@@ -1052,6 +1052,7 @@
   <project name="platform/system/peripheralmanager" />
   <project name="platform/system/security" />
   <project name="platform/system/sepolicy" />
+  <project name="platform/system/timezone" />
   <project name="platform/system/tools/aidl" />
   <project name="platform/system/tools/bpt" />
   <project name="platform/system/tools/hidl" />
