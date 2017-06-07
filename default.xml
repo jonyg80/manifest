@@ -1115,7 +1115,6 @@
   <project name="platform/tools/test/connectivity" />
   <project name="platform/tools/tradefederation" />
   <project name="platform/tools/tradefederation/contrib" />
-  <project name="platform/vendor/google/apps/TimeZoneDataGoogle" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
