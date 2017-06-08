@@ -464,6 +464,7 @@
   <project name="platform/external/mdnsresponder" />
   <project name="platform/external/mesa3d" />
   <project name="platform/external/messageformat" />
+  <project name="platform/external/minigbm" />
   <project name="platform/external/minijail" />
   <project name="platform/external/mksh" />
   <project name="platform/external/mmc-utils" />
