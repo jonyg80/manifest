@@ -36,6 +36,7 @@
   <project name="device/generic/mips" />
   <project name="device/generic/mips64" />
   <project name="device/generic/qemu" />
+  <project name="device/generic/uml" />
   <project name="device/generic/x86" />
   <project name="device/generic/x86_64" />
   <project name="device/google/accessory/adk2012" />
