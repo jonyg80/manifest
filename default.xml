@@ -1162,6 +1162,7 @@
   <project name="toolchain/prebuilts/ndk/r14" />
   <project name="toolchain/prebuilts/ndk/r15" />
   <project name="toolchain/prebuilts/ndk/r16" />
+  <project name="toolchain/prebuilts/ndk/r17" />
   <project name="toolchain/python" />
   <project name="toolchain/sed" />
   <project name="toolchain/valgrind" />
