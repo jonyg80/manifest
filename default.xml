@@ -1075,6 +1075,7 @@
   <project name="platform/system/wifi" />
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
+  <project name="platform/test/framework" />
   <project name="platform/test/gots" />
   <project name="platform/test/vti/alert" />
   <project name="platform/test/vti/dashboard" />
