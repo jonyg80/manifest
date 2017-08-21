@@ -434,6 +434,7 @@
   <project name="platform/external/libselinux" />
   <project name="platform/external/libsepol" />
   <project name="platform/external/libssh2" />
+  <project name="platform/external/libtextclassifier" />
   <project name="platform/external/libunwind" />
   <project name="platform/external/libunwind_llvm" />
   <project name="platform/external/libusb" />
