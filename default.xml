@@ -52,6 +52,7 @@
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" />
   <project name="device/google/phantasm" />
+  <project name="device/google/vrservices" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />
   <project name="device/htc/dream-sapphire" />
