@@ -283,6 +283,7 @@
   <project name="platform/external/elfutils" />
   <project name="platform/external/embunit" />
   <project name="platform/external/emma" />
+  <project name="platform/external/error_prone" />
   <project name="platform/external/esd" />
   <project name="platform/external/expat" />
   <project name="platform/external/eyes-free" />
