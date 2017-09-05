@@ -1101,6 +1101,7 @@
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/framework" />
   <project name="platform/test/gots" />
+  <project name="platform/test/sts" />
   <project name="platform/test/vti/alert" />
   <project name="platform/test/vti/dashboard" />
   <project name="platform/test/vti/fuzz_test_serving" />
