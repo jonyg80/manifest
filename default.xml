@@ -544,6 +544,7 @@
   <project name="platform/external/python/google-cloud-pubsub" />
   <project name="platform/external/python/google-gax" />
   <project name="platform/external/python/googleapis" />
+  <project name="platform/external/python/grpc-google-iam-v1" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
