@@ -527,6 +527,7 @@
   <project name="platform/external/pthreads" />
   <project name="platform/external/python" />
   <project name="platform/external/python/Pillow" />
+  <project name="platform/external/python/appdirs" />
   <project name="platform/external/python/cpython2" />
   <project name="platform/external/python/cpython3" />
   <project name="platform/external/qemu" />
