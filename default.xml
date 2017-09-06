@@ -550,6 +550,7 @@
   <project name="platform/external/python/matplotlib" />
   <project name="platform/external/python/numpy" />
   <project name="platform/external/python/oauth2client" />
+  <project name="platform/external/python/olefile" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
