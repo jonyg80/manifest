@@ -540,6 +540,7 @@
   <project name="platform/external/python/google-api-python-client" />
   <project name="platform/external/python/google-auth" />
   <project name="platform/external/python/google-auth-httplib2" />
+  <project name="platform/external/python/google-cloud-core" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
