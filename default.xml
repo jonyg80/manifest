@@ -535,6 +535,7 @@
   <project name="platform/external/python/enum" />
   <project name="platform/external/python/enum34" />
   <project name="platform/external/python/future" />
+  <project name="platform/external/python/futures" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
