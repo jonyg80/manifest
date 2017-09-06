@@ -546,6 +546,7 @@
   <project name="platform/external/python/googleapis" />
   <project name="platform/external/python/grpc-google-iam-v1" />
   <project name="platform/external/python/grpcio" />
+  <project name="platform/external/python/httplib2" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
