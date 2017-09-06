@@ -561,6 +561,7 @@
   <project name="platform/external/python/pyparsing" />
   <project name="platform/external/python/requests" />
   <project name="platform/external/python/rsa" />
+  <project name="platform/external/python/scipy" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
