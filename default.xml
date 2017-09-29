@@ -451,6 +451,7 @@
   <project name="platform/external/libvpx" />
   <project name="platform/external/libvterm" />
   <project name="platform/external/libweave" />
+  <project name="platform/external/libxcam" />
   <project name="platform/external/libxml2" />
   <project name="platform/external/libxslt" />
   <project name="platform/external/libyuv" />
