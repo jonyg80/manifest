@@ -1223,6 +1223,7 @@
   <project name="toolchain/jack-server" />
   <project name="toolchain/jdk/build" />
   <project name="toolchain/jdk/jdk9" />
+  <project name="toolchain/jdk/jdk9_hotspot" />
   <project name="toolchain/jill" />
   <project name="toolchain/libcxx" />
   <project name="toolchain/libcxxabi" />
