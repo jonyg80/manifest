@@ -1156,6 +1156,7 @@
   <project name="platform/test/vts-testcase/hal" />
   <project name="platform/test/vts-testcase/hal-trace" />
   <project name="platform/test/vts-testcase/kernel" />
+  <project name="platform/test/vts-testcase/nbu" />
   <project name="platform/test/vts-testcase/performance" />
   <project name="platform/test/vts-testcase/security" />
   <project name="platform/test/vts-testcase/vndk" />
