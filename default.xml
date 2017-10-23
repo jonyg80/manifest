@@ -465,6 +465,7 @@
   <project name="platform/external/libyuv" />
   <project name="platform/external/linux-kselftest" />
   <project name="platform/external/linux-tools-perf" />
+  <project name="platform/external/lisa" />
   <project name="platform/external/littlemock" />
   <project name="platform/external/lld" />
   <project name="platform/external/lldb" />
