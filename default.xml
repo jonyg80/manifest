@@ -534,6 +534,7 @@
   <project name="platform/external/pcre" />
   <project name="platform/external/ping" />
   <project name="platform/external/ping6" />
+  <project name="platform/external/ply" />
   <project name="platform/external/ppp" />
   <project name="platform/external/proguard" />
   <project name="platform/external/protobuf" />
