@@ -100,6 +100,7 @@
   <project name="device/sony/lt26" />
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
+  <project name="kernel/arm64" />
   <project name="kernel/build" />
   <project name="kernel/common" />
   <project name="kernel/configs" />
