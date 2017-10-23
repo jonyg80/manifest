@@ -650,6 +650,7 @@
   <project name="platform/external/unicode" />
   <project name="platform/external/universal-tween-engine" />
   <project name="platform/external/utf8proc" />
+  <project name="platform/external/v4l2_codec2" />
   <project name="platform/external/v8" />
   <project name="platform/external/valgrind" />
   <project name="platform/external/vboot_reference" />
