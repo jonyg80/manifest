@@ -264,6 +264,7 @@
   <project name="platform/external/dbus-binding-generator" />
   <project name="platform/external/deqp" />
   <project name="platform/external/desugar" />
+  <project name="platform/external/devlib" />
   <project name="platform/external/dexmaker" />
   <project name="platform/external/dhcpcd" />
   <project name="platform/external/dhcpcd-6.8.2" />
