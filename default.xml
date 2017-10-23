@@ -54,6 +54,7 @@
   <project name="device/google/phantasm" />
   <project name="device/google/vrservices" />
   <project name="device/google/wahoo" />
+  <project name="device/google/wahoo-kernel" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />
   <project name="device/htc/dream-sapphire" />
