@@ -398,6 +398,7 @@
   <project name="platform/external/kmod" />
   <project name="platform/external/kotlinc" />
   <project name="platform/external/ksoap2" />
+  <project name="platform/external/ktlint" />
   <project name="platform/external/lame" />
   <project name="platform/external/lcc" />
   <project name="platform/external/libavc" />
