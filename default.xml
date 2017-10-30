@@ -370,6 +370,7 @@
   <project name="platform/external/javassist" />
   <project name="platform/external/jcommander" />
   <project name="platform/external/jdiff" />
+  <project name="platform/external/jemalloc_new" />
   <project name="platform/external/jetbrains/jdk8u" />
   <project name="platform/external/jetbrains/jdk8u_corba" />
   <project name="platform/external/jetbrains/jdk8u_hotspot" />
