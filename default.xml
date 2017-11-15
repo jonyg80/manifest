@@ -644,6 +644,7 @@
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tinyalsa" />
   <project name="platform/external/tinycompress" />
+  <project name="platform/external/tinyobjloader" />
   <project name="platform/external/tinyxml" />
   <project name="platform/external/tinyxml2" />
   <project name="platform/external/tlsdate" />
