@@ -522,6 +522,7 @@
   <project name="platform/external/objenesis" />
   <project name="platform/external/oj-libjdwp" />
   <project name="platform/external/okhttp" />
+  <project name="platform/external/one-true-awk" />
   <project name="platform/external/open-vcdiff" />
   <project name="platform/external/opencore" />
   <project name="platform/external/opencv" />
