@@ -1097,6 +1097,7 @@
   <project name="platform/prebuilts/libs/libedit" />
   <project name="platform/prebuilts/maven_repo/android" />
   <project name="platform/prebuilts/maven_repo/bumptech" />
+  <project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
   <project name="platform/prebuilts/misc" />
   <project name="platform/prebuilts/ndk" />
   <project name="platform/prebuilts/ninja/darwin-x86" />
