@@ -553,6 +553,7 @@
   <project name="platform/external/protobuf" />
   <project name="platform/external/protobuf2.5" />
   <project name="platform/external/pthreads" />
+  <project name="platform/external/puffin" />
   <project name="platform/external/python" />
   <project name="platform/external/python/Pillow" />
   <project name="platform/external/python/appdirs" />
