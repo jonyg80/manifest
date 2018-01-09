@@ -1206,6 +1206,7 @@
   <project name="platform/tools/adt/idea" />
   <project name="platform/tools/analytics-library" />
   <project name="platform/tools/apksig" />
+  <project name="platform/tools/apkzlib" />
   <project name="platform/tools/appbundle" />
   <project name="platform/tools/base" />
   <project name="platform/tools/bdk" />
