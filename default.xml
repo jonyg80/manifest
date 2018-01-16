@@ -1289,6 +1289,7 @@
   <project name="toolchain/ndk_chromite_config" />
   <project name="toolchain/openmp_llvm" />
   <project name="toolchain/perl" />
+  <project name="toolchain/pgo-profiles" />
   <project name="toolchain/polly" />
   <project name="toolchain/ppl" />
   <project name="toolchain/prebuilts/ndk/r13" />
