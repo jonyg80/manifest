@@ -993,6 +993,7 @@
   <project name="platform/prebuilts/checkcolor" />
   <project name="platform/prebuilts/checkstyle" />
   <project name="platform/prebuilts/clack" />
+  <project name="platform/prebuilts/clang-tools" />
   <project name="platform/prebuilts/clang/darwin-x86/3.1" />
   <project name="platform/prebuilts/clang/darwin-x86/3.2" />
   <project name="platform/prebuilts/clang/darwin-x86/arm/3.3" />
