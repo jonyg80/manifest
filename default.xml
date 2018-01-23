@@ -1228,6 +1228,7 @@
   <project name="platform/tools/gradle" />
   <project name="platform/tools/idea" />
   <project name="platform/tools/loganalysis" />
+  <project name="platform/tools/metalava" />
   <project name="platform/tools/motodev" />
   <project name="platform/tools/repohooks" />
   <project name="platform/tools/repohooks-trampoline" />
