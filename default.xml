@@ -1156,6 +1156,7 @@
   <project name="platform/system/gatekeeper" />
   <project name="platform/system/hardware/interfaces" />
   <project name="platform/system/hwservicemanager" />
+  <project name="platform/system/iorap" />
   <project name="platform/system/iot/attestation" />
   <project name="platform/system/iot/mtdutils" />
   <project name="platform/system/keyguard" />
