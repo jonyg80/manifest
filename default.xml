@@ -609,6 +609,7 @@
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
   <project name="platform/external/safe-iop" />
+  <project name="platform/external/scapy" />
   <project name="platform/external/scrypt" />
   <project name="platform/external/sdl2" />
   <project name="platform/external/sdl2_ttf" />
