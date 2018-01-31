@@ -721,6 +721,7 @@
   <project name="platform/frameworks/opt/bitmap" />
   <project name="platform/frameworks/opt/bluetooth" />
   <project name="platform/frameworks/opt/calendar" />
+  <project name="platform/frameworks/opt/car/services" />
   <project name="platform/frameworks/opt/carddav" />
   <project name="platform/frameworks/opt/chips" />
   <project name="platform/frameworks/opt/colorpicker" />
