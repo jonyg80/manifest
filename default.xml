@@ -339,6 +339,7 @@
   <project name="platform/external/google-fonts/coming-soon" />
   <project name="platform/external/google-fonts/cutive-mono" />
   <project name="platform/external/google-fonts/dancing-script" />
+  <project name="platform/external/google-fruit" />
   <project name="platform/external/google-styleguide" />
   <project name="platform/external/google-tv-pairing-protocol" />
   <project name="platform/external/googleclient" />
