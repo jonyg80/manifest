@@ -544,6 +544,7 @@
   <project name="platform/external/owasp/sanitizer" />
   <project name="platform/external/parameter-framework" />
   <project name="platform/external/pdfium" />
+  <project name="platform/external/perf_data_converter" />
   <project name="platform/external/perfetto" />
   <project name="platform/external/piex" />
   <project name="platform/external/pixman" />
