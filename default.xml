@@ -789,6 +789,7 @@
   <project name="platform/hardware/bsp/rockchip" />
   <project name="platform/hardware/google" />
   <project name="platform/hardware/google/apf" />
+  <project name="platform/hardware/google/av" />
   <project name="platform/hardware/google/easel" />
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/intel/audio_media" />
