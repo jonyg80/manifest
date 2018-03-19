@@ -843,6 +843,7 @@
   <project name="platform/hardware/qcom/wlan" />
   <project name="platform/hardware/ril" />
   <project name="platform/hardware/samsung_slsi/exynos5" />
+  <project name="platform/hardware/st/nfc" />
   <project name="platform/hardware/ti/omap3" />
   <project name="platform/hardware/ti/omap4-aah" />
   <project name="platform/hardware/ti/omap4xxx" />
