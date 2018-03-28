@@ -1247,6 +1247,7 @@
   <project name="platform/tools/motodev" />
   <project name="platform/tools/repohooks" />
   <project name="platform/tools/repohooks-trampoline" />
+  <project name="platform/tools/security" />
   <project name="platform/tools/studio/cloud" />
   <project name="platform/tools/studio/google/appindexing" />
   <project name="platform/tools/studio/google/cloud/testing" />
