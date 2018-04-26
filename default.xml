@@ -255,6 +255,7 @@
   <project name="platform/external/clang" />
   <project name="platform/external/clang-tools-extra" />
   <project name="platform/external/clang_35a" />
+  <project name="platform/external/cldr" />
   <project name="platform/external/clearsilver" />
   <project name="platform/external/cmake" />
   <project name="platform/external/cmockery" />
