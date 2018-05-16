@@ -1206,6 +1206,7 @@
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/framework" />
+  <project name="platform/test/mlts/benchmark" />
   <project name="platform/test/p2pts" />
   <project name="platform/test/sts" />
   <project name="platform/test/vti/alert" />
