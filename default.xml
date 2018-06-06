@@ -661,6 +661,7 @@
   <project name="platform/external/tesseract" />
   <project name="platform/external/testng" />
   <project name="platform/external/timezonepicker-support" />
+  <project name="platform/external/tink" />
   <project name="platform/external/tinyalsa" />
   <project name="platform/external/tinycompress" />
   <project name="platform/external/tinyobjloader" />
