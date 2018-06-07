@@ -785,6 +785,7 @@
   <project name="platform/hardware/bsp/kernel/intel/edison-v4.4" />
   <project name="platform/hardware/bsp/kernel/intel/minnowboard-v3.14" />
   <project name="platform/hardware/bsp/kernel/marvell/pxa-v3.14" />
+  <project name="platform/hardware/bsp/kernel/mediatek/mt8516-v4.4" />
   <project name="platform/hardware/bsp/kernel/nxp/imx-v4.1" />
   <project name="platform/hardware/bsp/kernel/nxp/imx-v4.9" />
   <project name="platform/hardware/bsp/kernel/qcom" />
