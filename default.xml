@@ -744,6 +744,7 @@
   <project name="platform/frameworks/opt/mailcommon" />
   <project name="platform/frameworks/opt/mms" />
   <project name="platform/frameworks/opt/net/ethernet" />
+  <project name="platform/frameworks/opt/net/ike" />
   <project name="platform/frameworks/opt/net/ims" />
   <project name="platform/frameworks/opt/net/lowpan" />
   <project name="platform/frameworks/opt/net/voip" />
