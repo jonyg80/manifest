@@ -883,6 +883,7 @@
   <project name="platform/packages/apps/Car/LocalMediaPlayer" />
   <project name="platform/packages/apps/Car/Media" />
   <project name="platform/packages/apps/Car/Messenger" />
+  <project name="platform/packages/apps/Car/Notification" />
   <project name="platform/packages/apps/Car/Overview" />
   <project name="platform/packages/apps/Car/Radio" />
   <project name="platform/packages/apps/Car/Settings" />
