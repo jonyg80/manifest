@@ -686,6 +686,7 @@
   <project name="platform/external/vixl" />
   <project name="platform/external/vogar" />
   <project name="platform/external/volley" />
+  <project name="platform/external/vulkan-headers" />
   <project name="platform/external/vulkan-validation-layers" />
   <project name="platform/external/walt" />
   <project name="platform/external/weave-common" />
