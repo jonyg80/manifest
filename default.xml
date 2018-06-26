@@ -86,6 +86,7 @@
   <project name="device/linaro/hikey" />
   <project name="device/linaro/hikey-kernel" />
   <project name="device/linaro/poplar" />
+  <project name="device/linaro/poplar-kernel" />
   <project name="device/moto/common" />
   <project name="device/moto/shamu" />
   <project name="device/moto/shamu-kernel" />
