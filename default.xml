@@ -1016,6 +1016,7 @@
   <project name="platform/prebuilts/android-emulator-build/protobuf" />
   <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" />
   <project name="platform/prebuilts/android-emulator-build/qt" />
+  <project name="platform/prebuilts/androidx/internal" />
   <project name="platform/prebuilts/au-generator" />
   <project name="platform/prebuilts/build-artifacts" />
   <project name="platform/prebuilts/build-tools" />
