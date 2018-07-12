@@ -1121,6 +1121,7 @@
   <project name="platform/prebuilts/gradle-plugin" />
   <project name="platform/prebuilts/jdk/jdk8" />
   <project name="platform/prebuilts/jdk/jdk9" />
+  <project name="platform/prebuilts/ktlint" />
   <project name="platform/prebuilts/libedit/darwin-x86" />
   <project name="platform/prebuilts/libedit/linux-x86" />
   <project name="platform/prebuilts/libglog/darwin-x86" />
