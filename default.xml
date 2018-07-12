@@ -106,6 +106,7 @@
   <project name="device/samsung/tuna" />
   <project name="device/samsung_slsi/arndale" />
   <project name="device/sony/lt26" />
+  <project name="device/ti/beagle-x15" />
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
   <project name="kernel/arm64" />
