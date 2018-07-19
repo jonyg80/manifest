@@ -187,6 +187,7 @@
   <project name="platform/external/arduino" />
   <project name="platform/external/arduino-ide" />
   <project name="platform/external/arm-neon-tests" />
+  <project name="platform/external/arm-optimized-routines" />
   <project name="platform/external/astl" />
   <project name="platform/external/autotest" />
   <project name="platform/external/avahi" />
