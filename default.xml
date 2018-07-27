@@ -1257,6 +1257,7 @@
   <project name="platform/tools/apksig" />
   <project name="platform/tools/apkzlib" />
   <project name="platform/tools/appbundle" />
+  <project name="platform/tools/asuite" />
   <project name="platform/tools/base" />
   <project name="platform/tools/bdk" />
   <project name="platform/tools/build" />
