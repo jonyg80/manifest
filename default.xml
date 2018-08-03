@@ -595,6 +595,7 @@
   <project name="platform/external/python/grpcio" />
   <project name="platform/external/python/httplib2" />
   <project name="platform/external/python/matplotlib" />
+  <project name="platform/external/python/mock" />
   <project name="platform/external/python/numpy" />
   <project name="platform/external/python/oauth2client" />
   <project name="platform/external/python/olefile" />
