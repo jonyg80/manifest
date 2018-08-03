@@ -396,6 +396,7 @@
   <project name="platform/external/jetbrains/jdk8u_jaxp" />
   <project name="platform/external/jetbrains/jdk8u_jaxws" />
   <project name="platform/external/jetbrains/jdk8u_jdk" />
+  <project name="platform/external/jetbrains/jdk8u_jfx" />
   <project name="platform/external/jetbrains/jdk8u_langtools" />
   <project name="platform/external/jetbrains/jdk8u_nashorn" />
   <project name="platform/external/jemalloc" />
