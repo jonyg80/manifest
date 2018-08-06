@@ -1390,6 +1390,7 @@
   <project name="trusty/device/nxp/imx8m" />
   <project name="trusty/external/headers" />
   <project name="trusty/external/qemu" />
+  <project name="trusty/external/qemu-keycodemapdb" />
   <project name="trusty/external/trusty" />
   <project name="trusty/lib" />
   <project name="trusty/lk/common" />
