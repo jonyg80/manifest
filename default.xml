@@ -1253,6 +1253,7 @@
   <project name="platform/test/mlts/models" />
   <project name="platform/test/p2pts" />
   <project name="platform/test/sts" />
+  <project name="platform/test/suite_harness" />
   <project name="platform/test/vti/alert" />
   <project name="platform/test/vti/dashboard" />
   <project name="platform/test/vti/fuzz_test_serving" />
