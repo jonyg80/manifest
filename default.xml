@@ -1306,6 +1306,7 @@
   <project name="platform/vendor/invensense" />
   <project name="product/google/common" />
   <project name="product/google/example-ledflasher" />
+  <project name="system/tools/xsdc" />
   <project name="third-party-review" />
   <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
