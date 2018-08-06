@@ -633,6 +633,7 @@
   <project name="platform/external/replicaisland" />
   <project name="platform/external/rmi4utils" />
   <project name="platform/external/robolectric" />
+  <project name="platform/external/robolectric-shadows" />
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
   <project name="platform/external/safe-iop" />
