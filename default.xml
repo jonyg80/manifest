@@ -543,6 +543,7 @@
   <project name="platform/external/nist-pkits" />
   <project name="platform/external/nist-sip" />
   <project name="platform/external/nos/host/android" />
+  <project name="platform/external/nos/host/generic" />
   <project name="platform/external/noto-fonts" />
   <project name="platform/external/oauth" />
   <project name="platform/external/objenesis" />
