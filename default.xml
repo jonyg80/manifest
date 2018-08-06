@@ -370,6 +370,7 @@
   <project name="platform/external/harfbuzz" />
   <project name="platform/external/harfbuzz_ng" />
   <project name="platform/external/hcidump" />
+  <project name="platform/external/honggfuzz" />
   <project name="platform/external/hsqldb" />
   <project name="platform/external/hyphenation" />
   <project name="platform/external/hyphenation-patterns" />
