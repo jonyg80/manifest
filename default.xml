@@ -709,6 +709,7 @@
   <project name="platform/external/vulkan-headers" />
   <project name="platform/external/vulkan-validation-layers" />
   <project name="platform/external/walt" />
+  <project name="platform/external/wayland" />
   <project name="platform/external/weave-common" />
   <project name="platform/external/webkit" />
   <project name="platform/external/webp" />
