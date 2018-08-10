@@ -1299,6 +1299,7 @@
   <project name="platform/tools/loganalysis" />
   <project name="platform/tools/metalava" />
   <project name="platform/tools/motodev" />
+  <project name="platform/tools/ndkports" />
   <project name="platform/tools/repohooks" />
   <project name="platform/tools/repohooks-trampoline" />
   <project name="platform/tools/security" />
