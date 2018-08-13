@@ -676,6 +676,7 @@
   <project name="platform/external/swig" />
   <project name="platform/external/syslinux" />
   <project name="platform/external/syspatch" />
+  <project name="platform/external/syzkaller" />
   <project name="platform/external/tagsoup" />
   <project name="platform/external/tcpdump" />
   <project name="platform/external/tensorflow" />
