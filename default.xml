@@ -584,6 +584,7 @@
   <project name="platform/external/python/Pillow" />
   <project name="platform/external/python/apitools" />
   <project name="platform/external/python/appdirs" />
+  <project name="platform/external/python/atomicwrites" />
   <project name="platform/external/python/cachetools" />
   <project name="platform/external/python/cpython2" />
   <project name="platform/external/python/cpython3" />
