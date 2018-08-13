@@ -622,6 +622,7 @@
   <project name="platform/external/python/pyasn1" />
   <project name="platform/external/python/pyasn1-modules" />
   <project name="platform/external/python/pyparsing" />
+  <project name="platform/external/python/pytest" />
   <project name="platform/external/python/requests" />
   <project name="platform/external/python/rsa" />
   <project name="platform/external/python/scipy" />
