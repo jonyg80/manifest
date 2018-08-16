@@ -1251,6 +1251,7 @@
   <project name="platform/system/tools/aidl" />
   <project name="platform/system/tools/bpt" />
   <project name="platform/system/tools/hidl" />
+  <project name="platform/system/tools/sysprop" />
   <project name="platform/system/tools/xsdc" />
   <project name="platform/system/tpm" />
   <project name="platform/system/tpm_manager" />
