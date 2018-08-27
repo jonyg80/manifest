@@ -1331,6 +1331,7 @@
   <project name="platform/tools/test/graphicsbenchmark" />
   <project name="platform/tools/tradefederation" />
   <project name="platform/tools/tradefederation/contrib" />
+  <project name="platform/tools/trebuchet" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
