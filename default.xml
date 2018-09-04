@@ -1405,6 +1405,7 @@
   <project name="trusty/device/nxp/imx6ul" />
   <project name="trusty/device/nxp/imx7d" />
   <project name="trusty/device/nxp/imx8m" />
+  <project name="trusty/device/x86/generic-x86_64" />
   <project name="trusty/external/headers" />
   <project name="trusty/external/qemu" />
   <project name="trusty/external/qemu-keycodemapdb" />
