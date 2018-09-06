@@ -1339,6 +1339,7 @@
   <project name="platform/vendor/aosp/google_devices/sailfish" />
   <project name="platform/vendor/aosp/google_devices/taimen" />
   <project name="platform/vendor/aosp/google_devices/walleye" />
+  <project name="platform/vendor/aosp/linaro/hikey960" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
