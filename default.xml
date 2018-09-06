@@ -1335,6 +1335,7 @@
   <project name="platform/tools/treble" />
   <project name="platform/tools/trebuchet" />
   <project name="platform/vendor/aosp/google_devices/marlin" />
+  <project name="platform/vendor/aosp/google_devices/muskie" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
