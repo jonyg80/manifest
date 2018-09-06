@@ -1342,6 +1342,7 @@
   <project name="platform/vendor/aosp/linaro/hikey960" />
   <project name="platform/vendor/aosp/qcom/marlin" />
   <project name="platform/vendor/aosp/qcom/sailfish" />
+  <project name="platform/vendor/aosp/qcom/taimen" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
