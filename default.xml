@@ -1207,6 +1207,7 @@
   <project name="platform/prebuilts/swig/windows-x86" />
   <project name="platform/prebuilts/tools" />
   <project name="platform/prebuilts/vndk/v27" />
+  <project name="platform/prebuilts/vndk/v28" />
   <project name="platform/sdk" />
   <project name="platform/superproject" />
   <project name="platform/system/adb" />
