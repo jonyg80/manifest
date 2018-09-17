@@ -838,6 +838,7 @@
   <project name="platform/hardware/google/av" />
   <project name="platform/hardware/google/easel" />
   <project name="platform/hardware/google/interfaces" />
+  <project name="platform/hardware/google/pixel" />
   <project name="platform/hardware/intel/audio_media" />
   <project name="platform/hardware/intel/bootstub" />
   <project name="platform/hardware/intel/common/bd_prov" />
