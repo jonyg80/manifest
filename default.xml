@@ -333,6 +333,7 @@
   <project name="platform/external/free-image" />
   <project name="platform/external/freetype" />
   <project name="platform/external/fsck_msdos" />
+  <project name="platform/external/fsverity-utils" />
   <project name="platform/external/ganymed-ssh2" />
   <project name="platform/external/gcc-demangle" />
   <project name="platform/external/gdata" />
