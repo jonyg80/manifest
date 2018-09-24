@@ -1239,6 +1239,7 @@
   <project name="platform/system/iorap" />
   <project name="platform/system/iot/attestation" />
   <project name="platform/system/iot/mtdutils" />
+  <project name="platform/system/iot/tools" />
   <project name="platform/system/keyguard" />
   <project name="platform/system/keymaster" />
   <project name="platform/system/libfmq" />
