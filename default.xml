@@ -179,6 +179,7 @@
   <project name="platform/external/apache-apr" />
   <project name="platform/external/apache-apr-util" />
   <project name="platform/external/apache-commons-bcel" />
+  <project name="platform/external/apache-commons-compress" />
   <project name="platform/external/apache-commons-math" />
   <project name="platform/external/apache-harmony" />
   <project name="platform/external/apache-http" />
