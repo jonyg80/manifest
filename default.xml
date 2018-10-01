@@ -1270,6 +1270,7 @@
   <project name="platform/system/tpm" />
   <project name="platform/system/tpm_manager" />
   <project name="platform/system/trunks" />
+  <project name="platform/system/ucontainer" />
   <project name="platform/system/update_engine" />
   <project name="platform/system/vold" />
   <project name="platform/system/weaved" />
