@@ -1221,6 +1221,7 @@
   <project name="platform/prebuilts/vndk/v27" />
   <project name="platform/prebuilts/vndk/v28" />
   <project name="platform/sdk" />
+  <project name="platform/smaratorg" />
   <project name="platform/superproject" />
   <project name="platform/system/adb" />
   <project name="platform/system/apex" />
