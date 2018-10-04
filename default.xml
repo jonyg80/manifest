@@ -1401,6 +1401,7 @@
   <project name="toolchain/llvm" />
   <project name="toolchain/llvm_android" />
   <project name="toolchain/m4" />
+  <project name="toolchain/make" />
   <project name="toolchain/manifest" />
   <project name="toolchain/mclinker" />
   <project name="toolchain/mingw" />
