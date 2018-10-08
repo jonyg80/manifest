@@ -1101,6 +1101,7 @@
   <project name="platform/prebuilts/eclipse-build-deps-sources" />
   <project name="platform/prebuilts/fullsdk-darwin/build-tools/27.0.3" />
   <project name="platform/prebuilts/fullsdk-darwin/build-tools/28.0.2" />
+  <project name="platform/prebuilts/fullsdk-darwin/build-tools/28.0.3" />
   <project name="platform/prebuilts/fullsdk-darwin/platform-tools" />
   <project name="platform/prebuilts/fullsdk-darwin/tools" />
   <project name="platform/prebuilts/fullsdk-linux/build-tools/27.0.3" />
