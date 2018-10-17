@@ -566,7 +566,6 @@
   <project name="platform/external/opencv3" />
   <project name="platform/external/openfst" />
   <project name="platform/external/openmp_llvm" />
-  <project name="platform/external/opensensus-java" />
   <project name="platform/external/openssh" />
   <project name="platform/external/openssl" />
   <project name="platform/external/openthread" />
