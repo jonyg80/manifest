@@ -894,6 +894,7 @@
   <project name="platform/hardware/qcom/power" />
   <project name="platform/hardware/qcom/sdm845/bt" />
   <project name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" />
+  <project name="platform/hardware/qcom/sdm845/display" />
   <project name="platform/hardware/qcom/sensors" />
   <project name="platform/hardware/qcom/wlan" />
   <project name="platform/hardware/ril" />
