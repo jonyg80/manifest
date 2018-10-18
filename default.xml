@@ -898,6 +898,7 @@
   <project name="platform/hardware/qcom/sdm845/gps" />
   <project name="platform/hardware/qcom/sdm845/media" />
   <project name="platform/hardware/qcom/sdm845/thermal" />
+  <project name="platform/hardware/qcom/sdm845/vr" />
   <project name="platform/hardware/qcom/sensors" />
   <project name="platform/hardware/qcom/wlan" />
   <project name="platform/hardware/ril" />
