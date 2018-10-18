@@ -892,6 +892,7 @@
   <project name="platform/hardware/qcom/msm8x84" />
   <project name="platform/hardware/qcom/neuralnetworks/hvxservice" />
   <project name="platform/hardware/qcom/power" />
+  <project name="platform/hardware/qcom/sdm845/bt" />
   <project name="platform/hardware/qcom/sensors" />
   <project name="platform/hardware/qcom/wlan" />
   <project name="platform/hardware/ril" />
