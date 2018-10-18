@@ -125,6 +125,7 @@
   <project name="kernel/manifest" />
   <project name="kernel/mediatek" />
   <project name="kernel/msm" />
+  <project name="kernel/msm-extra" />
   <project name="kernel/omap" />
   <project name="kernel/samsung" />
   <project name="kernel/tegra" />
