@@ -129,6 +129,7 @@
   <project name="kernel/msm-modules" />
   <project name="kernel/msm-modules/qca-wfi-host-cmn" />
   <project name="kernel/msm-modules/qcacld" />
+  <project name="kernel/msm-modules/wlan-fw-api" />
   <project name="kernel/omap" />
   <project name="kernel/samsung" />
   <project name="kernel/tegra" />
