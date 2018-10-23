@@ -1285,6 +1285,7 @@
   <project name="platform/system/peripheralmanager" />
   <project name="platform/system/security" />
   <project name="platform/system/sepolicy" />
+  <project name="platform/system/server_configurable_flags" />
   <project name="platform/system/testing/gtest_extras" />
   <project name="platform/system/timezone" />
   <project name="platform/system/tools/aidl" />
