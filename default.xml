@@ -670,6 +670,7 @@
   <project name="platform/external/seccomp-tests" />
   <project name="platform/external/selinux" />
   <project name="platform/external/sepolicy" />
+  <project name="platform/external/setupcompat" />
   <project name="platform/external/sfntly" />
   <project name="platform/external/shaderc/glslang" />
   <project name="platform/external/shaderc/spirv-headers" />
