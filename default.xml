@@ -1086,6 +1086,7 @@
   <project name="platform/prebuilts/au-generator" />
   <project name="platform/prebuilts/build-artifacts" />
   <project name="platform/prebuilts/build-tools" />
+  <project name="platform/prebuilts/bundletool" />
   <project name="platform/prebuilts/checkcolor" />
   <project name="platform/prebuilts/checkstyle" />
   <project name="platform/prebuilts/clack" />
