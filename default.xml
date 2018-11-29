@@ -851,6 +851,7 @@
   <project name="platform/hardware/bsp/kernel/raspberrypi/pi-v4.1" />
   <project name="platform/hardware/bsp/kernel/raspberrypi/pi-v4.4" />
   <project name="platform/hardware/bsp/kernel/rockchip" />
+  <project name="platform/hardware/bsp/kernel/rockchip/rk-v4.4" />
   <project name="platform/hardware/bsp/qcom" />
   <project name="platform/hardware/bsp/rockchip" />
   <project name="platform/hardware/google" />
