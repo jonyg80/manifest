@@ -826,6 +826,7 @@
   <project name="platform/hardware/broadcom/wlan" />
   <project name="platform/hardware/bsp/bootloader/intel/edison-u-boot" />
   <project name="platform/hardware/bsp/bootloader/nxp/uboot-imx" />
+  <project name="platform/hardware/bsp/bootloader/rockchip/rk-u-boot" />
   <project name="platform/hardware/bsp/broadcom" />
   <project name="platform/hardware/bsp/freescale" />
   <project name="platform/hardware/bsp/imagination" />
