@@ -57,6 +57,7 @@
   <project name="device/google/debugcable" />
   <project name="device/google/dragon" />
   <project name="device/google/dragon-kernel" />
+  <project name="device/google/fuchsia" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" />
   <project name="device/google/muskie" />
