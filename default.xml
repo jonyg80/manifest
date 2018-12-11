@@ -528,6 +528,7 @@
   <project name="platform/external/lohit-fonts" />
   <project name="platform/external/ltp" />
   <project name="platform/external/ltrace" />
+  <project name="platform/external/lua" />
   <project name="platform/external/lvm2" />
   <project name="platform/external/lz4" />
   <project name="platform/external/lzma" />
