@@ -300,6 +300,7 @@
   <project name="platform/external/deqp" />
   <project name="platform/external/deqp-deps/SPIRV-Headers" />
   <project name="platform/external/deqp-deps/SPIRV-Tools" />
+  <project name="platform/external/deqp-deps/glslang" />
   <project name="platform/external/desugar" />
   <project name="platform/external/devlib" />
   <project name="platform/external/dexmaker" />
