@@ -298,6 +298,7 @@
   <project name="platform/external/dbus" />
   <project name="platform/external/dbus-binding-generator" />
   <project name="platform/external/deqp" />
+  <project name="platform/external/deqp-deps/SPIRV-Tools" />
   <project name="platform/external/desugar" />
   <project name="platform/external/devlib" />
   <project name="platform/external/dexmaker" />
