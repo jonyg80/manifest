@@ -378,6 +378,7 @@
   <project name="platform/external/google-fonts/cutive-mono" />
   <project name="platform/external/google-fonts/dancing-script" />
   <project name="platform/external/google-fonts/rubik" />
+  <project name="platform/external/google-fonts/source-sans-pro" />
   <project name="platform/external/google-fruit" />
   <project name="platform/external/google-styleguide" />
   <project name="platform/external/google-tv-pairing-protocol" />
