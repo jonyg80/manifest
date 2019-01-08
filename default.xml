@@ -10,6 +10,7 @@
   <project name="accessories/manifest" />
   <project name="assets/android-studio-ux-assets" />
   <project name="brillo/manifest" />
+  <project name="device/amlogic/yukawa" />
   <project name="device/asus/deb" />
   <project name="device/asus/flo" />
   <project name="device/asus/flo-kernel" />
