@@ -189,6 +189,7 @@
   <project name="platform/external/android-mock" />
   <project name="platform/external/android-studio-gradle-test" />
   <project name="platform/external/androidplot" />
+  <project name="platform/external/angle" />
   <project name="platform/external/annotation-tools" />
   <project name="platform/external/ant-glob" />
   <project name="platform/external/antlr" />
