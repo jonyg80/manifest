@@ -66,8 +66,8 @@
   <project name="device/google/marlin-kernel" />
   <project name="device/google/muskie" />
   <project name="device/google/phantasm" />
-  <project name="device/google/vrservices" />
   <project name="device/google/taimen" />
+  <project name="device/google/vrservices" />
   <project name="device/google/wahoo" />
   <project name="device/google/wahoo-kernel" />
   <project name="device/htc/common" />
@@ -319,8 +319,8 @@
   <project name="platform/external/dosfstools" />
   <project name="platform/external/drm_gralloc" />
   <project name="platform/external/drm_hwcomposer" />
-  <project name="platform/external/dropbear" />
   <project name="platform/external/droiddriver" />
+  <project name="platform/external/dropbear" />
   <project name="platform/external/drrickorang" />
   <project name="platform/external/dtc" />
   <project name="platform/external/e2fsprogs" />
@@ -424,7 +424,9 @@
   <project name="platform/external/javassist" />
   <project name="platform/external/jcommander" />
   <project name="platform/external/jdiff" />
+  <project name="platform/external/jemalloc" />
   <project name="platform/external/jemalloc_new" />
+  <project name="platform/external/jenkins-hash" />
   <project name="platform/external/jetbrains/jdk8u" />
   <project name="platform/external/jetbrains/jdk8u_corba" />
   <project name="platform/external/jetbrains/jdk8u_hotspot" />
@@ -434,8 +436,6 @@
   <project name="platform/external/jetbrains/jdk8u_jfx" />
   <project name="platform/external/jetbrains/jdk8u_langtools" />
   <project name="platform/external/jetbrains/jdk8u_nashorn" />
-  <project name="platform/external/jemalloc" />
-  <project name="platform/external/jenkins-hash" />
   <project name="platform/external/jetbrains/kotlin" />
   <project name="platform/external/jetty" />
   <project name="platform/external/jhead" />
@@ -602,14 +602,14 @@
   <project name="platform/external/oprofile" />
   <project name="platform/external/owasp/sanitizer" />
   <project name="platform/external/parameter-framework" />
+  <project name="platform/external/pcre" />
   <project name="platform/external/pdfium" />
   <project name="platform/external/perf_data_converter" />
   <project name="platform/external/perfetto" />
   <project name="platform/external/piex" />
-  <project name="platform/external/pixman" />
-  <project name="platform/external/pcre" />
   <project name="platform/external/ping" />
   <project name="platform/external/ping6" />
+  <project name="platform/external/pixman" />
   <project name="platform/external/ply" />
   <project name="platform/external/ppp" />
   <project name="platform/external/proguard" />
@@ -694,9 +694,9 @@
   <project name="platform/external/setupcompat" />
   <project name="platform/external/sfntly" />
   <project name="platform/external/shaderc/glslang" />
+  <project name="platform/external/shaderc/shaderc" />
   <project name="platform/external/shaderc/spirv-headers" />
   <project name="platform/external/shaderc/spirv-tools" />
-  <project name="platform/external/shaderc/shaderc" />
   <project name="platform/external/shflags" />
   <project name="platform/external/sil-fonts" />
   <project name="platform/external/skia" />
@@ -1411,8 +1411,8 @@
   <project name="platform/tools/treble" />
   <project name="platform/tools/trebuchet" />
   <project name="platform/vendor/htc/dream-open" />
-  <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
+  <project name="platform/vendor/sample" />
   <project name="product/google/common" />
   <project name="product/google/example-ledflasher" />
   <project name="third-party-review" />
