@@ -746,6 +746,7 @@
   <project name="platform/external/tremor" />
   <project name="platform/external/turbine" />
   <project name="platform/external/u-boot" />
+  <project name="platform/external/ukey2" />
   <project name="platform/external/unicode" />
   <project name="platform/external/universal-tween-engine" />
   <project name="platform/external/utf8proc" />
