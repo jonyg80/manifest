@@ -1497,6 +1497,7 @@
   <project name="trusty/lk/nxp" />
   <project name="trusty/lk/trusty" />
   <project name="trusty/manifest" />
+  <project name="trusty/prebuilts/aosp" />
   <project name="trusty/vendor/google/aosp" />
 
 </manifest>
