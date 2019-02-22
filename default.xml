@@ -1250,6 +1250,7 @@
   <project name="platform/prebuilts/libprotobuf/windows" />
   <project name="platform/prebuilts/libprotobuf/windows-x86" />
   <project name="platform/prebuilts/libs/libedit" />
+  <project name="platform/prebuilts/manifest-merger" />
   <project name="platform/prebuilts/maven_repo/android" />
   <project name="platform/prebuilts/maven_repo/bumptech" />
   <project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
