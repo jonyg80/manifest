@@ -1381,6 +1381,7 @@
   <project name="platform/tools/build" />
   <project name="platform/tools/buildSrc" />
   <project name="platform/tools/cmake-utils" />
+  <project name="platform/tools/currysrc" />
   <project name="platform/tools/dexter" />
   <project name="platform/tools/emulator" />
   <project name="platform/tools/external/fat32lib" />
