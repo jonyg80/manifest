@@ -1497,6 +1497,7 @@
   <project name="trusty/external/headers" />
   <project name="trusty/external/qemu" />
   <project name="trusty/external/qemu-keycodemapdb" />
+  <project name="trusty/external/trusted-firmware-a" />
   <project name="trusty/external/trusty" />
   <project name="trusty/lib" />
   <project name="trusty/lk/common" />
