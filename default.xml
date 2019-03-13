@@ -630,6 +630,7 @@
   <project name="platform/external/python/cachetools" />
   <project name="platform/external/python/cpython2" />
   <project name="platform/external/python/cpython3" />
+  <project name="platform/external/python/cryptography" />
   <project name="platform/external/python/dateutil" />
   <project name="platform/external/python/dill" />
   <project name="platform/external/python/enum" />
