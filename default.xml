@@ -625,6 +625,7 @@
   <project name="platform/external/python/Pillow" />
   <project name="platform/external/python/apitools" />
   <project name="platform/external/python/appdirs" />
+  <project name="platform/external/python/asn1crypto" />
   <project name="platform/external/python/atomicwrites" />
   <project name="platform/external/python/attrs" />
   <project name="platform/external/python/cachetools" />
