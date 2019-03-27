@@ -479,6 +479,7 @@
   <project name="platform/external/libdivsufsort" />
   <project name="platform/external/libdrm" />
   <project name="platform/external/libedit" />
+  <project name="platform/external/libepoxy" />
   <project name="platform/external/libese" />
   <project name="platform/external/libevent" />
   <project name="platform/external/libexif" />
