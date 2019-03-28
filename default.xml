@@ -414,6 +414,7 @@
   <project name="platform/external/id3lib" />
   <project name="platform/external/ims" />
   <project name="platform/external/iosched" />
+  <project name="platform/external/iperf3" />
   <project name="platform/external/iproute2" />
   <project name="platform/external/ipsec-tools" />
   <project name="platform/external/iptables" />
