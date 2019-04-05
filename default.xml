@@ -1037,6 +1037,7 @@
   <project name="platform/packages/apps/QuickSearchBox" />
   <project name="platform/packages/apps/RetailDemo" />
   <project name="platform/packages/apps/SafetyRegulatoryInfo" />
+  <project name="platform/packages/apps/SampleLocationAttribution" />
   <project name="platform/packages/apps/SecureElement" />
   <project name="platform/packages/apps/Settings" />
   <project name="platform/packages/apps/SettingsIntelligence" />
