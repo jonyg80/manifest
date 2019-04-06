@@ -216,6 +216,7 @@
   <project name="platform/external/avahi" />
   <project name="platform/external/avb" />
   <project name="platform/external/bart" />
+  <project name="platform/external/bazelbuild-remote-apis" />
   <project name="platform/external/bcc" />
   <project name="platform/external/bison" />
   <project name="platform/external/blktrace" />
