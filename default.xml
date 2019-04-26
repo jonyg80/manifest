@@ -1114,6 +1114,7 @@
   <project name="platform/platform_testing" />
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/abi-dumps/ndk" />
+  <project name="platform/prebuilts/abi-dumps/platform" />
   <project name="platform/prebuilts/abi-dumps/vndk" />
   <project name="platform/prebuilts/android-emulator" />
   <project name="platform/prebuilts/android-emulator-build/archive" />
