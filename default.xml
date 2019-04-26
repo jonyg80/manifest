@@ -1368,6 +1368,7 @@
   <project name="platform/test/framework" />
   <project name="platform/test/mlts/benchmark" />
   <project name="platform/test/mlts/models" />
+  <project name="platform/test/mts" />
   <project name="platform/test/p2pts" />
   <project name="platform/test/sts" />
   <project name="platform/test/suite_harness" />
