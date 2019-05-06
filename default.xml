@@ -1514,6 +1514,7 @@
   <project name="trusty/device/nxp/imx8m" />
   <project name="trusty/device/x86/generic-x86_64" />
   <project name="trusty/external/headers" />
+  <project name="trusty/external/musl" />
   <project name="trusty/external/qemu" />
   <project name="trusty/external/qemu-keycodemapdb" />
   <project name="trusty/external/trusted-firmware-a" />
