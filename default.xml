@@ -52,6 +52,7 @@
   <project name="device/google/accessory/demokit" />
   <project name="device/google/atv" />
   <project name="device/google/bonito" />
+  <project name="device/google/bonito-kernel" />
   <project name="device/google/contexthub" />
   <project name="device/google/crosshatch" />
   <project name="device/google/crosshatch-kernel" />
