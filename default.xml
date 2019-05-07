@@ -1140,6 +1140,7 @@
   <project name="platform/prebuilts/androidx/internal" />
   <project name="platform/prebuilts/asuite" />
   <project name="platform/prebuilts/au-generator" />
+  <project name="platform/prebuilts/boot-artifacts" />
   <project name="platform/prebuilts/build-artifacts" />
   <project name="platform/prebuilts/build-tools" />
   <project name="platform/prebuilts/bundletool" />
