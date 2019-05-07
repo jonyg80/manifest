@@ -951,6 +951,7 @@
   <project name="platform/hardware/qcom/msm8x84" />
   <project name="platform/hardware/qcom/neuralnetworks/hvxservice" />
   <project name="platform/hardware/qcom/power" />
+  <project name="platform/hardware/qcom/sdm710/data/ipacfg-mgr" />
   <project name="platform/hardware/qcom/sdm710/display" />
   <project name="platform/hardware/qcom/sdm710/gps" />
   <project name="platform/hardware/qcom/sdm710/media" />
