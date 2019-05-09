@@ -439,6 +439,7 @@
   <project name="platform/external/jemalloc" />
   <project name="platform/external/jemalloc_new" />
   <project name="platform/external/jenkins-hash" />
+  <project name="platform/external/jetbrains/JetBrainsRuntime" />
   <project name="platform/external/jetbrains/jdk8u" />
   <project name="platform/external/jetbrains/jdk8u_corba" />
   <project name="platform/external/jetbrains/jdk8u_hotspot" />
