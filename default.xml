@@ -1487,6 +1487,7 @@
   <project name="toolchain/libcxxabi" />
   <project name="toolchain/lld" />
   <project name="toolchain/llvm" />
+  <project name="toolchain/llvm-project" />
   <project name="toolchain/llvm_android" />
   <project name="toolchain/m4" />
   <project name="toolchain/make" />
