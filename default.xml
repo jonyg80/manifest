@@ -419,6 +419,7 @@
   <project name="platform/external/icu" />
   <project name="platform/external/icu4c" />
   <project name="platform/external/id3lib" />
+  <project name="platform/external/igt-gpu-tools" />
   <project name="platform/external/ims" />
   <project name="platform/external/iosched" />
   <project name="platform/external/iperf3" />
