@@ -1084,6 +1084,7 @@
   <project name="platform/packages/inputmethods/LatinIME" />
   <project name="platform/packages/inputmethods/OpenWnn" />
   <project name="platform/packages/inputmethods/PinyinIME" />
+  <project name="platform/packages/modules/CaptivePortalLogin" />
   <project name="platform/packages/modules/ModuleMetadata" />
   <project name="platform/packages/modules/Sharesheet" />
   <project name="platform/packages/providers/ApplicationsProvider" />
