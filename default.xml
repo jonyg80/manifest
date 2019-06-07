@@ -1520,6 +1520,7 @@
   <project name="toolchain/prebuilts/ndk/r16" />
   <project name="toolchain/prebuilts/ndk/r17" />
   <project name="toolchain/prebuilts/ndk/r18" />
+  <project name="toolchain/prebuilts/ndk/r19" />
   <project name="toolchain/python" />
   <project name="toolchain/sed" />
   <project name="toolchain/valgrind" />
