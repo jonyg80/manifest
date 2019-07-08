@@ -1477,6 +1477,7 @@
   <project name="product/google/common" />
   <project name="product/google/example-ledflasher" />
   <project name="third-party-review" />
+  <project name="toolchain/android_rust" />
   <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
   <project name="toolchain/binutils" />
