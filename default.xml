@@ -1215,6 +1215,7 @@
   <project name="platform/prebuilts/fullsdk/platforms/android-26" />
   <project name="platform/prebuilts/fullsdk/platforms/android-28" />
   <project name="platform/prebuilts/fullsdk/platforms/android-29" />
+  <project name="platform/prebuilts/fullsdk/platforms/android-system-29" />
   <project name="platform/prebuilts/fullsdk/sources/android-28" />
   <project name="platform/prebuilts/fullsdk/sources/android-29" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" />
