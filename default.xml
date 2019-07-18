@@ -1542,7 +1542,6 @@
   <project name="toolchain/xz" />
   <project name="toolchain/yasm" />
   <project name="tools/aospstats" />
-  <project name="tools/appcompat" />
   <project name="tools/platform-compat" />
   <project name="tools/repo" />
   <project name="trusty/app/avb" />
