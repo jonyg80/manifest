@@ -714,6 +714,7 @@
   <project name="platform/external/rust/crates/libc" />
   <project name="platform/external/rust/crates/quote" />
   <project name="platform/external/rust/crates/remain" />
+  <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/safe-iop" />
   <project name="platform/external/scapy" />
   <project name="platform/external/scrypt" />
