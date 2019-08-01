@@ -499,6 +499,7 @@
   <project name="platform/external/libevent" />
   <project name="platform/external/libexif" />
   <project name="platform/external/libffi" />
+  <project name="platform/external/libfuse" />
   <project name="platform/external/libgdx" />
   <project name="platform/external/libgsm" />
   <project name="platform/external/libhevc" />
