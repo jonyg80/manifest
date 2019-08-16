@@ -411,6 +411,7 @@
   <project name="platform/external/gtest" />
   <project name="platform/external/guava" />
   <project name="platform/external/guice" />
+  <project name="platform/external/gwp_asan" />
   <project name="platform/external/hamcrest" />
   <project name="platform/external/harfbuzz" />
   <project name="platform/external/harfbuzz_ng" />
