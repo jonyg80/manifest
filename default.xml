@@ -97,6 +97,7 @@
   <project name="device/linaro/bootloader/OpenPlatformPkg" />
   <project name="device/linaro/bootloader/arm-trusted-firmware" />
   <project name="device/linaro/bootloader/edk2" />
+  <project name="device/linaro/dragonboard" />
   <project name="device/linaro/hikey" />
   <project name="device/linaro/hikey-kernel" />
   <project name="device/linaro/poplar" />
