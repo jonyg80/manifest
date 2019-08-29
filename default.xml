@@ -1026,6 +1026,7 @@
   <project name="platform/packages/apps/Car/LatinIME" />
   <project name="platform/packages/apps/Car/Launcher" />
   <project name="platform/packages/apps/Car/LensPicker" />
+  <project name="platform/packages/apps/Car/LinkViewer" />
   <project name="platform/packages/apps/Car/LocalMediaPlayer" />
   <project name="platform/packages/apps/Car/Media" />
   <project name="platform/packages/apps/Car/Messenger" />
