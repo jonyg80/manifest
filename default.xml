@@ -1036,6 +1036,7 @@
   <project name="platform/packages/apps/Car/Stream" />
   <project name="platform/packages/apps/Car/SystemUpdater" />
   <project name="platform/packages/apps/Car/UserManagement" />
+  <project name="platform/packages/apps/Car/externallibs" />
   <project name="platform/packages/apps/Car/libs" />
   <project name="platform/packages/apps/Car/tests" />
   <project name="platform/packages/apps/CarrierConfig" />
