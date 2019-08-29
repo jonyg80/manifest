@@ -398,6 +398,7 @@
   <project name="platform/external/google-fonts/lato" />
   <project name="platform/external/google-fonts/rubik" />
   <project name="platform/external/google-fonts/source-sans-pro" />
+  <project name="platform/external/google-fonts/zilla-slab" />
   <project name="platform/external/google-fruit" />
   <project name="platform/external/google-styleguide" />
   <project name="platform/external/google-tv-pairing-protocol" />
