@@ -1104,6 +1104,7 @@
   <project name="platform/packages/apps/Traceur" />
   <project name="platform/packages/apps/TvSettings" />
   <project name="platform/packages/apps/UnifiedEmail" />
+  <project name="platform/packages/apps/UniversalMediaPlayer" />
   <project name="platform/packages/apps/Updater" />
   <project name="platform/packages/apps/VideoEditor" />
   <project name="platform/packages/apps/VoiceDialer" />
