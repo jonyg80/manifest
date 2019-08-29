@@ -1109,6 +1109,7 @@
   <project name="platform/packages/apps/VideoEditor" />
   <project name="platform/packages/apps/VoiceDialer" />
   <project name="platform/packages/apps/WallpaperPicker" />
+  <project name="platform/packages/apps/WallpaperPicker2" />
   <project name="platform/packages/experimental" />
   <project name="platform/packages/inputmethods/LatinIME" />
   <project name="platform/packages/inputmethods/OpenWnn" />
