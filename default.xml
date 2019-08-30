@@ -1426,6 +1426,7 @@
   <project name="platform/system/wifi" />
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
+  <project name="platform/test/app_compat/c-suite" />
   <project name="platform/test/framework" />
   <project name="platform/test/mlts/benchmark" />
   <project name="platform/test/mlts/models" />
