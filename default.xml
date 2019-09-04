@@ -1504,7 +1504,6 @@
   <project name="platform/tools/trebuchet" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/invensense" />
-  <project name="platform/vendor/partner_testing/app_compat" />
   <project name="platform/vendor/sample" />
   <project name="product/google/common" />
   <project name="product/google/example-ledflasher" />
