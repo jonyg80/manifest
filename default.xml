@@ -632,6 +632,7 @@
   <project name="platform/external/openvpn" />
   <project name="platform/external/oprofile" />
   <project name="platform/external/optee/apps" />
+  <project name="platform/external/oss-fuzz" />
   <project name="platform/external/owasp/sanitizer" />
   <project name="platform/external/parameter-framework" />
   <project name="platform/external/pcre" />
