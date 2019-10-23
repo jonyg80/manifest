@@ -129,6 +129,7 @@
   <project name="kernel/arm64" />
   <project name="kernel/build" />
   <project name="kernel/common" />
+  <project name="kernel/common-patches" />
   <project name="kernel/configs" />
   <project name="kernel/cuttlefish-modules" />
   <project name="kernel/exynos" />
