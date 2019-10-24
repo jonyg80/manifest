@@ -1001,6 +1001,7 @@
   <project name="platform/hardware/qcom/sensors" />
   <project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
   <project name="platform/hardware/qcom/sm8150/thermal" />
+  <project name="platform/hardware/qcom/sm8150/vr" />
   <project name="platform/hardware/qcom/wlan" />
   <project name="platform/hardware/ril" />
   <project name="platform/hardware/samsung_slsi/exynos5" />
