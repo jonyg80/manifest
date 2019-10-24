@@ -1003,6 +1003,7 @@
   <project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
   <project name="platform/hardware/qcom/sm8150/display" />
   <project name="platform/hardware/qcom/sm8150/gps" />
+  <project name="platform/hardware/qcom/sm8150/media" />
   <project name="platform/hardware/qcom/sm8150/thermal" />
   <project name="platform/hardware/qcom/sm8150/vr" />
   <project name="platform/hardware/qcom/wlan" />
