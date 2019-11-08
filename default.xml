@@ -913,7 +913,7 @@
   <project name="platform/hardware/bsp/intel" />
   <project name="platform/hardware/bsp/kernel/common/v4.1" />
   <project name="platform/hardware/bsp/kernel/common/v4.4" />
-  <project name="platform/hardware/bsp/kernel/freescale" />
+  <project name="platform/hardware/bsp/kernel/freescale" path="platform/hardware/bsp/kernel/freescale.git" />
   <project name="platform/hardware/bsp/kernel/freescale/picoimx-3.14" />
   <project name="platform/hardware/bsp/kernel/imagination/v4.1" />
   <project name="platform/hardware/bsp/kernel/intel" path="platform/hardware/bsp/kernel/intel.git" />
@@ -932,7 +932,7 @@
   <project name="platform/hardware/bsp/kernel/qcom/qcom-msm8x53-v3.18" />
   <project name="platform/hardware/bsp/kernel/raspberrypi/pi-v4.1" />
   <project name="platform/hardware/bsp/kernel/raspberrypi/pi-v4.4" />
-  <project name="platform/hardware/bsp/kernel/rockchip" />
+  <project name="platform/hardware/bsp/kernel/rockchip" path="platform/hardware/bsp/kernel/rockchip.git" />
   <project name="platform/hardware/bsp/kernel/rockchip/rk-v4.4" />
   <project name="platform/hardware/bsp/qcom" />
   <project name="platform/hardware/bsp/rockchip" />
@@ -1357,9 +1357,9 @@
   <project name="platform/prebuilts/ninja/darwin-x86" />
   <project name="platform/prebuilts/ninja/linux-x86" />
   <project name="platform/prebuilts/ninja/windows-x86" />
-  <project name="platform/prebuilts/python/darwin-x86" />
+  <project name="platform/prebuilts/python/darwin-x86" path="platform/prebuilts/python/darwin-x86.git" />
   <project name="platform/prebuilts/python/darwin-x86/2.7.5" />
-  <project name="platform/prebuilts/python/linux-x86" />
+  <project name="platform/prebuilts/python/linux-x86" path="platform/prebuilts/python/linux-x86.git" />
   <project name="platform/prebuilts/python/linux-x86/2.7.5" />
   <project name="platform/prebuilts/python/windows-x86" />
   <project name="platform/prebuilts/qemu-kernel" />
@@ -1523,7 +1523,7 @@
   <project name="platform/tools/swt" />
   <project name="platform/tools/test/connectivity" />
   <project name="platform/tools/test/graphicsbenchmark" />
-  <project name="platform/tools/tradefederation" />
+  <project name="platform/tools/tradefederation" path="platform/tools/tradefederation.git" />
   <project name="platform/tools/tradefederation/contrib" />
   <project name="platform/tools/treble" />
   <project name="platform/tools/trebuchet" />
@@ -1532,7 +1532,6 @@
   <project name="platform/vendor/sample" />
   <project name="product/google/common" />
   <project name="product/google/example-ledflasher" />
-  <project name="third-party-review" />
   <project name="toolchain/android_rust" />
   <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
