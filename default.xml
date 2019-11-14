@@ -1430,6 +1430,7 @@
   <project name="platform/system/memory/libion" />
   <project name="platform/system/memory/libmeminfo" />
   <project name="platform/system/memory/libmemtrack" />
+  <project name="platform/system/memory/libmemunreachable" />
   <project name="platform/system/memory/lmkd" />
   <project name="platform/system/metricsd" />
   <project name="platform/system/nativepower" />
