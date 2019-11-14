@@ -1428,6 +1428,7 @@
   <project name="platform/system/linkerconfig" />
   <project name="platform/system/media" />
   <project name="platform/system/memory/libion" />
+  <project name="platform/system/memory/libmeminfo" />
   <project name="platform/system/metricsd" />
   <project name="platform/system/nativepower" />
   <project name="platform/system/netd" />
