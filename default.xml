@@ -1420,6 +1420,7 @@
   <project name="platform/system/gsid" />
   <project name="platform/system/hardware/interfaces" />
   <project name="platform/system/hwservicemanager" />
+  <project name="platform/system/incremental_delivery" />
   <project name="platform/system/iorap" />
   <project name="platform/system/iot/attestation" />
   <project name="platform/system/iot/mtdutils" />
