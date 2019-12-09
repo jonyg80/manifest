@@ -396,6 +396,7 @@
   <project name="platform/external/gmock" />
   <project name="platform/external/go-creachadair-stringset" />
   <project name="platform/external/golang-protobuf" />
+  <project name="platform/external/golang-x-sync" />
   <project name="platform/external/golang-x-tools" />
   <project name="platform/external/google-api-services-storage" />
   <project name="platform/external/google-benchmark" />
