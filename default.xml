@@ -1620,6 +1620,7 @@
   <project name="tools/platform-compat" />
   <project name="tools/repo" />
   <project name="trusty/app/avb" />
+  <project name="trusty/app/confirmationui" />
   <project name="trusty/app/gatekeeper" />
   <project name="trusty/app/keymaster" />
   <project name="trusty/app/nvram" />
