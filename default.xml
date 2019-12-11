@@ -1140,6 +1140,7 @@
   <project name="platform/packages/apps/WallpaperPicker2" />
   <project name="platform/packages/experimental" />
   <project name="platform/packages/inputmethods/LatinIME" />
+  <project name="platform/packages/inputmethods/LeanbackIME" />
   <project name="platform/packages/inputmethods/OpenWnn" />
   <project name="platform/packages/inputmethods/PinyinIME" />
   <project name="platform/packages/modules/ANGLE" />
