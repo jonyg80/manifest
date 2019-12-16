@@ -254,6 +254,7 @@
   <project name="platform/external/capstone" />
   <project name="platform/external/catch2" />
   <project name="platform/external/cblas" />
+  <project name="platform/external/cbor-java" />
   <project name="platform/external/ceres-solver" />
   <project name="platform/external/checkpolicy" />
   <project name="platform/external/checkstyle" />
