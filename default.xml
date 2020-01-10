@@ -137,6 +137,7 @@
   <project name="kernel/cuttlefish-modules" />
   <project name="kernel/exynos" />
   <project name="kernel/goldfish" />
+  <project name="kernel/goldfish-modules" />
   <project name="kernel/hikey-linaro" />
   <project name="kernel/lk" />
   <project name="kernel/manifest" />
