@@ -139,6 +139,7 @@
   <project name="kernel/goldfish" />
   <project name="kernel/goldfish-modules" />
   <project name="kernel/hikey-linaro" />
+  <project name="kernel/hikey-modules" />
   <project name="kernel/lk" />
   <project name="kernel/manifest" />
   <project name="kernel/mediatek" />
