@@ -1458,6 +1458,7 @@
   <project name="platform/system/libsysprop" />
   <project name="platform/system/libufdt" />
   <project name="platform/system/libvintf" />
+  <project name="platform/system/libziparchive" />
   <project name="platform/system/linkerconfig" />
   <project name="platform/system/media" />
   <project name="platform/system/memory/libion" />
