@@ -806,6 +806,7 @@
   <project name="platform/external/tensorflow" />
   <project name="platform/external/tesseract" />
   <project name="platform/external/testng" />
+  <project name="platform/external/timezone-boundary-builder" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tinyalsa" />
   <project name="platform/external/tinycompress" />
