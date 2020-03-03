@@ -816,6 +816,7 @@
   <project name="platform/external/toolchain-utils" />
   <project name="platform/external/toybox" />
   <project name="platform/external/tpm2" />
+  <project name="platform/external/tpm2-tss" />
   <project name="platform/external/trappy" />
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
