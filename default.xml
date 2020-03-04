@@ -725,6 +725,7 @@
   <project name="platform/external/python/pyasn1-modules" />
   <project name="platform/external/python/pybind11" />
   <project name="platform/external/python/pycparser" />
+  <project name="platform/external/python/pyfakefs" />
   <project name="platform/external/python/pyopenssl" />
   <project name="platform/external/python/pyparsing" />
   <project name="platform/external/python/pytest" />
