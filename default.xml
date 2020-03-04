@@ -484,6 +484,7 @@
   <project name="platform/external/jetbrains/kotlin" />
   <project name="platform/external/jetty" />
   <project name="platform/external/jhead" />
+  <project name="platform/external/jimfs" />
   <project name="platform/external/jline" />
   <project name="platform/external/jmdns" />
   <project name="platform/external/jmonkeyengine" />
