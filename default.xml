@@ -922,6 +922,7 @@
   <project name="platform/frameworks/policies/base" />
   <project name="platform/frameworks/rs" />
   <project name="platform/frameworks/support" />
+  <project name="platform/frameworks/support-golden" />
   <project name="platform/frameworks/testing" />
   <project name="platform/frameworks/uiautomator" />
   <project name="platform/frameworks/volley" />
