@@ -1649,6 +1649,7 @@
   <project name="toolchain/yasm" />
   <project name="tools/aospstats" />
   <project name="tools/platform-compat" />
+  <project name="tools/presubmit-automerger/test1" />
   <project name="tools/repo" />
   <project name="trusty/app/avb" />
   <project name="trusty/app/confirmationui" />
