@@ -411,6 +411,7 @@
   <project name="platform/external/google-diff-match-patch" />
   <project name="platform/external/google-fonts/arbutus-slab" />
   <project name="platform/external/google-fonts/arvo" />
+  <project name="platform/external/google-fonts/barlow" />
   <project name="platform/external/google-fonts/big-shoulders-text" />
   <project name="platform/external/google-fonts/carrois-gothic-sc" />
   <project name="platform/external/google-fonts/coming-soon" />
