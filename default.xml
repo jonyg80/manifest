@@ -417,6 +417,7 @@
   <project name="platform/external/google-fonts/cutive-mono" />
   <project name="platform/external/google-fonts/dancing-script" />
   <project name="platform/external/google-fonts/fraunces" />
+  <project name="platform/external/google-fonts/karla" />
   <project name="platform/external/google-fonts/lato" />
   <project name="platform/external/google-fonts/lustria" />
   <project name="platform/external/google-fonts/rubik" />
