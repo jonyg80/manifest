@@ -764,6 +764,7 @@
   <project name="platform/external/rust/crates/byteorder" />
   <project name="platform/external/rust/crates/futures" />
   <project name="platform/external/rust/crates/futures-channel" />
+  <project name="platform/external/rust/crates/futures-core" />
   <project name="platform/external/rust/crates/futures-executor" />
   <project name="platform/external/rust/crates/futures-sink" />
   <project name="platform/external/rust/crates/futures-task" />
