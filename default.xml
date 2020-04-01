@@ -770,6 +770,7 @@
   <project name="platform/external/rust/crates/libc" />
   <project name="platform/external/rust/crates/paste" />
   <project name="platform/external/rust/crates/paste-impl" />
+  <project name="platform/external/rust/crates/pin-utils" />
   <project name="platform/external/rust/crates/proc-macro-hack" />
   <project name="platform/external/rust/crates/proc-macro2" />
   <project name="platform/external/rust/crates/quote" />
