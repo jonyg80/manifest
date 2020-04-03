@@ -1560,6 +1560,7 @@
   <project name="platform/tools/dctv-tracedb" />
   <project name="platform/tools/dexter" />
   <project name="platform/tools/doc_generation" />
+  <project name="platform/tools/dokka-devsite-plugin" />
   <project name="platform/tools/emulator" />
   <project name="platform/tools/external/bazelbuild-rules-kotlin" />
   <project name="platform/tools/external/fat32lib" />
