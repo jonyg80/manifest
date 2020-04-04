@@ -761,6 +761,7 @@
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
   <project name="platform/external/rust/crates/aho-corasick" />
+  <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/byteorder" />
   <project name="platform/external/rust/crates/clang-sys" />
