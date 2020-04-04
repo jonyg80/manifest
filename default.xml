@@ -762,6 +762,7 @@
   <project name="platform/external/rootdev" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/byteorder" />
+  <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/futures" />
   <project name="platform/external/rust/crates/futures-channel" />
   <project name="platform/external/rust/crates/futures-core" />
