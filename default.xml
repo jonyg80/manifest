@@ -769,6 +769,7 @@
   <project name="platform/external/rust/crates/futures-channel" />
   <project name="platform/external/rust/crates/futures-core" />
   <project name="platform/external/rust/crates/futures-executor" />
+  <project name="platform/external/rust/crates/futures-io" />
   <project name="platform/external/rust/crates/futures-macro" />
   <project name="platform/external/rust/crates/futures-sink" />
   <project name="platform/external/rust/crates/futures-task" />
