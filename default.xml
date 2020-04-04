@@ -773,6 +773,7 @@
   <project name="platform/external/rust/crates/futures-macro" />
   <project name="platform/external/rust/crates/futures-sink" />
   <project name="platform/external/rust/crates/futures-task" />
+  <project name="platform/external/rust/crates/futures-util" />
   <project name="platform/external/rust/crates/glob" />
   <project name="platform/external/rust/crates/lazycell" />
   <project name="platform/external/rust/crates/libc" />
