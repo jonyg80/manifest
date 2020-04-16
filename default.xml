@@ -775,6 +775,7 @@
   <project name="platform/external/rust/crates/futures-task" />
   <project name="platform/external/rust/crates/futures-util" />
   <project name="platform/external/rust/crates/glob" />
+  <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
   <project name="platform/external/rust/crates/libc" />
   <project name="platform/external/rust/crates/log" />
