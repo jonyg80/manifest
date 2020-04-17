@@ -764,6 +764,7 @@
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/byteorder" />
+  <project name="platform/external/rust/crates/cexpr" />
   <project name="platform/external/rust/crates/cfg-if" />
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/futures" />
