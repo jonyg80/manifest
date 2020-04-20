@@ -1684,6 +1684,7 @@
   <project name="toolchain/prebuilts/ndk/r18" />
   <project name="toolchain/prebuilts/ndk/r19" />
   <project name="toolchain/prebuilts/ndk/r20" />
+  <project name="toolchain/prebuilts/ndk/r21" />
   <project name="toolchain/python" />
   <project name="toolchain/rustc" />
   <project name="toolchain/sed" />
