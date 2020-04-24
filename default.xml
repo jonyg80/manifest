@@ -923,6 +923,7 @@
   <project name="platform/frameworks/hardware/interfaces" />
   <project name="platform/frameworks/janktesthelper" />
   <project name="platform/frameworks/layoutlib" />
+  <project name="platform/frameworks/libs/modules-utils" />
   <project name="platform/frameworks/libs/native_bridge_support" />
   <project name="platform/frameworks/libs/net" />
   <project name="platform/frameworks/libs/systemui" />
