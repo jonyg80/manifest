@@ -1627,6 +1627,7 @@
   <project name="platform/tools/tradefederation/contrib" />
   <project name="platform/tools/treble" />
   <project name="platform/tools/trebuchet" />
+  <project name="platform/vendor/google/modules/RuntimeI18n" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/invensense" />
   <project name="platform/vendor/sample" />
