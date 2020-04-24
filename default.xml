@@ -1222,6 +1222,7 @@
   <project name="platform/packages/modules/ModuleMetadata" />
   <project name="platform/packages/modules/NetworkPermissionConfig" />
   <project name="platform/packages/modules/NetworkStack" />
+  <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SdkExtensions" />
   <project name="platform/packages/modules/Sharesheet" />
   <project name="platform/packages/modules/TestModule" />
