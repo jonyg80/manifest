@@ -789,6 +789,7 @@
   <project name="platform/external/rust/crates/paste" />
   <project name="platform/external/rust/crates/paste-impl" />
   <project name="platform/external/rust/crates/peeking_take_while" />
+  <project name="platform/external/rust/crates/pin-project-internal" />
   <project name="platform/external/rust/crates/pin-utils" />
   <project name="platform/external/rust/crates/proc-macro-error-attr" />
   <project name="platform/external/rust/crates/proc-macro-hack" />
