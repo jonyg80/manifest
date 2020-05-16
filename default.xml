@@ -806,6 +806,7 @@
   <project name="platform/external/rust/crates/rustc-hash" />
   <project name="platform/external/rust/crates/shlex" />
   <project name="platform/external/rust/crates/slab" />
+  <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/rust/crates/thread_local" />
   <project name="platform/external/rust/crates/unicode-xid" />
