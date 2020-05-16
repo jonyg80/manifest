@@ -769,6 +769,7 @@
   <project name="platform/external/rust/crates/cexpr" />
   <project name="platform/external/rust/crates/cfg-if" />
   <project name="platform/external/rust/crates/clang-sys" />
+  <project name="platform/external/rust/crates/codespan-reporting" />
   <project name="platform/external/rust/crates/futures" />
   <project name="platform/external/rust/crates/futures-channel" />
   <project name="platform/external/rust/crates/futures-core" />
