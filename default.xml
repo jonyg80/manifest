@@ -795,6 +795,7 @@
   <project name="platform/external/rust/crates/pin-project" />
   <project name="platform/external/rust/crates/pin-project-internal" />
   <project name="platform/external/rust/crates/pin-utils" />
+  <project name="platform/external/rust/crates/proc-macro-error" />
   <project name="platform/external/rust/crates/proc-macro-error-attr" />
   <project name="platform/external/rust/crates/proc-macro-hack" />
   <project name="platform/external/rust/crates/proc-macro-nested" />
