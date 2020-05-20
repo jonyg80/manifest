@@ -1637,6 +1637,7 @@
   <project name="platform/tools/swt" />
   <project name="platform/tools/test/connectivity" />
   <project name="platform/tools/test/graphicsbenchmark" />
+  <project name="platform/tools/test/openhst" />
   <project name="platform/tools/tradefed_cluster" />
   <project name="platform/tools/tradefederation" path="platform/tools/tradefederation.git" />
   <project name="platform/tools/tradefederation/contrib" />
