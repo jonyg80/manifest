@@ -811,6 +811,7 @@
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/rust/crates/syn-mid" />
+  <project name="platform/external/rust/crates/textwrap" />
   <project name="platform/external/rust/crates/thiserror-impl" />
   <project name="platform/external/rust/crates/thread_local" />
   <project name="platform/external/rust/crates/unicode-segmentation" />
