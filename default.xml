@@ -1621,6 +1621,7 @@
   <project name="platform/tools/external/go/src/golang.org/x/tools" />
   <project name="platform/tools/external/gradle" />
   <project name="platform/tools/external_updater" />
+  <project name="platform/tools/google_prebuilts/studio/sdk/remote" />
   <project name="platform/tools/gpu" />
   <project name="platform/tools/gradle" />
   <project name="platform/tools/gradle-recipes" />
