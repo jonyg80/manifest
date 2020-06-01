@@ -1343,6 +1343,7 @@
   <project name="platform/prebuilts/cmake/darwin-x86" />
   <project name="platform/prebuilts/cmake/linux-x86" />
   <project name="platform/prebuilts/cmake/windows-x86" />
+  <project name="platform/prebuilts/cmdline-tools" />
   <project name="platform/prebuilts/deqp" />
   <project name="platform/prebuilts/devtools" />
   <project name="platform/prebuilts/eclipse" />
