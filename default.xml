@@ -152,6 +152,7 @@
   <project name="kernel/msm-modules/qcacld" />
   <project name="kernel/msm-modules/wlan-fw-api" />
   <project name="kernel/omap" />
+  <project name="kernel/prebuilts/build-tools" />
   <project name="kernel/samsung" />
   <project name="kernel/tegra" />
   <project name="kernel/tests" />
