@@ -153,6 +153,7 @@
   <project name="kernel/msm-modules/wlan-fw-api" />
   <project name="kernel/omap" />
   <project name="kernel/prebuilts/4.19/arm64" />
+  <project name="kernel/prebuilts/5.4/arm64" />
   <project name="kernel/prebuilts/build-tools" />
   <project name="kernel/samsung" />
   <project name="kernel/tegra" />
