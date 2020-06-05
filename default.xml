@@ -356,6 +356,7 @@
   <project name="platform/external/dropbear" />
   <project name="platform/external/drrickorang" />
   <project name="platform/external/dtc" />
+  <project name="platform/external/dwarves" />
   <project name="platform/external/dynamic_depth" />
   <project name="platform/external/e2fsprogs" />
   <project name="platform/external/easymock" />
