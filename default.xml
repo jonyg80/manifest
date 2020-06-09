@@ -409,6 +409,7 @@
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
   <project name="platform/external/gmock" />
+  <project name="platform/external/go-cmp" />
   <project name="platform/external/go-creachadair-stringset" />
   <project name="platform/external/go-etree" />
   <project name="platform/external/golang-protobuf" />
