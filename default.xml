@@ -377,6 +377,7 @@
   <project name="platform/external/esd" />
   <project name="platform/external/ethtool" />
   <project name="platform/external/expat" />
+  <project name="platform/external/extfuse" />
   <project name="platform/external/eyes-free" />
   <project name="platform/external/f2fs-tools" />
   <project name="platform/external/faad" />
