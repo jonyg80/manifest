@@ -686,6 +686,7 @@
   <project name="platform/external/pdfium" />
   <project name="platform/external/perf_data_converter" />
   <project name="platform/external/perfetto" />
+  <project name="platform/external/pffft" />
   <project name="platform/external/piex" />
   <project name="platform/external/ping" />
   <project name="platform/external/ping6" />
