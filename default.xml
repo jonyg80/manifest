@@ -909,6 +909,7 @@
   <project name="platform/external/ukey2" />
   <project name="platform/external/unicode" />
   <project name="platform/external/universal-tween-engine" />
+  <project name="platform/external/usrsctp" />
   <project name="platform/external/utf8proc" />
   <project name="platform/external/v4l2_codec2" />
   <project name="platform/external/v8" />
