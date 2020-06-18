@@ -787,6 +787,7 @@
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
+  <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/futures" />
   <project name="platform/external/rust/crates/futures-channel" />
   <project name="platform/external/rust/crates/futures-core" />
