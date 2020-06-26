@@ -416,6 +416,7 @@
   <project name="platform/external/go-creachadair-shell" />
   <project name="platform/external/go-creachadair-stringset" />
   <project name="platform/external/go-etree" />
+  <project name="platform/external/go-subcommands" />
   <project name="platform/external/golang-protobuf" />
   <project name="platform/external/golang-x-sync" />
   <project name="platform/external/golang-x-tools" />
