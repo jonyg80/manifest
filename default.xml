@@ -191,6 +191,7 @@
   <project name="platform/external/AntennaPod/AntennaPod" />
   <project name="platform/external/AntennaPod/AudioPlayer" />
   <project name="platform/external/AntennaPod/afollestad" />
+  <project name="platform/external/ComputeLibrary" />
   <project name="platform/external/FP16" />
   <project name="platform/external/FXdiv" />
   <project name="platform/external/GhostAWT" />
