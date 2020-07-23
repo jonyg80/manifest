@@ -241,6 +241,7 @@
   <project name="platform/external/arm-neon-tests" />
   <project name="platform/external/arm-optimized-routines" />
   <project name="platform/external/arm-trusted-firmware" />
+  <project name="platform/external/armnn" />
   <project name="platform/external/astc-codec" />
   <project name="platform/external/astl" />
   <project name="platform/external/auto" />
