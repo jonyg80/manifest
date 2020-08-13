@@ -176,6 +176,7 @@
   <project name="platform/bootable/diskinstaller" />
   <project name="platform/bootable/recovery" />
   <project name="platform/build" path="platform/build.git" />
+  <project name="platform/build/bazel" />
   <project name="platform/build/blueprint" />
   <project name="platform/build/kati" />
   <project name="platform/build/soong" />
