@@ -792,6 +792,7 @@
   <project name="platform/external/rust/crates/android_logger" />
   <project name="platform/external/rust/crates/anyhow" />
   <project name="platform/external/rust/crates/arbitrary" />
+  <project name="platform/external/rust/crates/async-trait" />
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/byteorder" />
