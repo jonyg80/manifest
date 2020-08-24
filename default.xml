@@ -75,6 +75,7 @@
   <project name="device/google/muskie" />
   <project name="device/google/phantasm" />
   <project name="device/google/sunfish" />
+  <project name="device/google/sunfish-kernel" />
   <project name="device/google/taimen" />
   <project name="device/google/vrservices" />
   <project name="device/google/wahoo" />
