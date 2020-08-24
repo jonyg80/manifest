@@ -1155,6 +1155,7 @@
   <project name="platform/hardware/qcom/sdm845/vr" />
   <project name="platform/hardware/qcom/sensors" />
   <project name="platform/hardware/qcom/sm7150/display" />
+  <project name="platform/hardware/qcom/sm7150/gps" />
   <project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
   <project name="platform/hardware/qcom/sm8150/display" />
   <project name="platform/hardware/qcom/sm8150/gps" />
