@@ -823,6 +823,7 @@
   <project name="platform/external/rust/crates/getrandom" />
   <project name="platform/external/rust/crates/glob" />
   <project name="platform/external/rust/crates/heck" />
+  <project name="platform/external/rust/crates/itoa" />
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
   <project name="platform/external/rust/crates/libc" />
