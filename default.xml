@@ -1359,6 +1359,7 @@
   <project name="platform/packages/wallpapers/Basic" />
   <project name="platform/packages/wallpapers/Galaxy4" />
   <project name="platform/packages/wallpapers/HoloSpiral" />
+  <project name="platform/packages/wallpapers/ImageWallpaper" />
   <project name="platform/packages/wallpapers/LivePicker" />
   <project name="platform/packages/wallpapers/MagicSmoke" />
   <project name="platform/packages/wallpapers/MusicVisualization" />
