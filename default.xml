@@ -1100,6 +1100,7 @@
   <project name="platform/hardware/google" path="platform/hardware/google.git" />
   <project name="platform/hardware/google/apf" />
   <project name="platform/hardware/google/av" />
+  <project name="platform/hardware/google/camera" />
   <project name="platform/hardware/google/easel" />
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/google/pixel" />
