@@ -1036,6 +1036,7 @@
   <project name="platform/frameworks/opt/gamesdk" />
   <project name="platform/frameworks/opt/inputconnectioncommon" />
   <project name="platform/frameworks/opt/inputmethodcommon" />
+  <project name="platform/frameworks/opt/localepicker" />
   <project name="platform/frameworks/opt/mailcommon" />
   <project name="platform/frameworks/opt/mms" />
   <project name="platform/frameworks/opt/net/ethernet" />
