@@ -1691,6 +1691,7 @@
   <project name="platform/tools/bdk" />
   <project name="platform/tools/build" />
   <project name="platform/tools/buildSrc" />
+  <project name="platform/tools/carrier_settings" />
   <project name="platform/tools/cmake-utils" />
   <project name="platform/tools/currysrc" />
   <project name="platform/tools/dctv-tracedb" />
