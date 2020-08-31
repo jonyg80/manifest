@@ -575,6 +575,7 @@
   <project name="platform/external/libgdx" />
   <project name="platform/external/libgsm" />
   <project name="platform/external/libhevc" />
+  <project name="platform/external/libiio" />
   <project name="platform/external/libiota" />
   <project name="platform/external/libjpeg-turbo" />
   <project name="platform/external/libkmsxx" />
