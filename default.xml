@@ -209,6 +209,7 @@
   <project name="platform/external/Mako" />
   <project name="platform/external/Microsoft-GSL" />
   <project name="platform/external/Microsoft-unittest-cpp" />
+  <project name="platform/external/OpenCL-CTS" />
   <project name="platform/external/OpenCSD" />
   <project name="platform/external/Reactive-Extensions/RxCpp" />
   <project name="platform/external/XNNPACK" />
