@@ -1222,6 +1222,7 @@
   <project name="platform/packages/apps/Car/Notification" />
   <project name="platform/packages/apps/Car/Overview" />
   <project name="platform/packages/apps/Car/Radio" />
+  <project name="platform/packages/apps/Car/RotaryController" />
   <project name="platform/packages/apps/Car/Settings" />
   <project name="platform/packages/apps/Car/Stream" />
   <project name="platform/packages/apps/Car/SystemUpdater" />
