@@ -1352,6 +1352,7 @@
   <project name="platform/packages/services/EasService" />
   <project name="platform/packages/services/LockAndWipe" />
   <project name="platform/packages/services/Mms" />
+  <project name="platform/packages/services/Mtp" />
   <project name="platform/packages/services/NetworkRecommendation" />
   <project name="platform/packages/services/Telecomm" />
   <project name="platform/packages/services/Telephony" />
