@@ -849,6 +849,7 @@
   <project name="platform/external/rust/crates/peeking_take_while" />
   <project name="platform/external/rust/crates/pin-project" />
   <project name="platform/external/rust/crates/pin-project-internal" />
+  <project name="platform/external/rust/crates/pin-project-lite" />
   <project name="platform/external/rust/crates/pin-utils" />
   <project name="platform/external/rust/crates/ppv-lite86" />
   <project name="platform/external/rust/crates/proc-macro-error" />
