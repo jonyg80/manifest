@@ -873,6 +873,7 @@
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rustc-hash" />
   <project name="platform/external/rust/crates/ryu" />
+  <project name="platform/external/rust/crates/scopeguard" />
   <project name="platform/external/rust/crates/serde" />
   <project name="platform/external/rust/crates/serde_json" />
   <project name="platform/external/rust/crates/shlex" />
