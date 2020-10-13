@@ -837,6 +837,7 @@
   <project name="platform/external/rust/crates/libloading" />
   <project name="platform/external/rust/crates/libsqlite3-sys" />
   <project name="platform/external/rust/crates/linked-hash-map" />
+  <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
   <project name="platform/external/rust/crates/memchr" />
