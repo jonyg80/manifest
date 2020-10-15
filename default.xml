@@ -1187,6 +1187,7 @@
   <project name="platform/hardware/qcom/sm7150/gps" />
   <project name="platform/hardware/qcom/sm7150/media" />
   <project name="platform/hardware/qcom/sm7150/vr" />
+  <project name="platform/hardware/qcom/sm7250/display" />
   <project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
   <project name="platform/hardware/qcom/sm8150/display" />
   <project name="platform/hardware/qcom/sm8150/gps" />
