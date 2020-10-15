@@ -54,6 +54,7 @@
   <project name="device/google/bonito" />
   <project name="device/google/bonito-kernel" />
   <project name="device/google/bonito-sepolicy" />
+  <project name="device/google/bramble" />
   <project name="device/google/contexthub" />
   <project name="device/google/coral" />
   <project name="device/google/coral-kernel" />
