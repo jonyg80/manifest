@@ -174,6 +174,7 @@
   <project name="kernel/msm-modules/fts_touch" />
   <project name="kernel/msm-modules/qca-wfi-host-cmn" />
   <project name="kernel/msm-modules/qcacld" />
+  <project name="kernel/msm-modules/sec_touch" />
   <project name="kernel/msm-modules/wlan" />
   <project name="kernel/msm-modules/wlan-fw-api" />
   <project name="kernel/omap" />
