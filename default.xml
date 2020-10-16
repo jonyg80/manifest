@@ -165,6 +165,7 @@
   <project name="kernel/msm-extra/config" />
   <project name="kernel/msm-extra/dataipa" />
   <project name="kernel/msm-extra/devicetree" />
+  <project name="kernel/msm-extra/display-devicetree" />
   <project name="kernel/msm-extra/drivers" />
   <project name="kernel/msm-modules" path="kernel/msm-modules.git" />
   <project name="kernel/msm-modules/data-kernel" />
