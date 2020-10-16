@@ -81,6 +81,7 @@
   <project name="device/google/redbull-sepolicy" />
   <project name="device/google/redfin" />
   <project name="device/google/redfin-kernel" />
+  <project name="device/google/redfin-sepolicy" />
   <project name="device/google/sunfish" />
   <project name="device/google/sunfish-kernel" />
   <project name="device/google/sunfish-sepolicy" />
