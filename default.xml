@@ -79,6 +79,7 @@
   <project name="device/google/phantasm" />
   <project name="device/google/redbull" />
   <project name="device/google/redbull-sepolicy" />
+  <project name="device/google/redfin" />
   <project name="device/google/redfin-kernel" />
   <project name="device/google/sunfish" />
   <project name="device/google/sunfish-kernel" />
