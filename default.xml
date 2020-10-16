@@ -161,6 +161,7 @@
   <project name="kernel/msm" />
   <project name="kernel/msm-extra" path="kernel/msm-extra.git" />
   <project name="kernel/msm-extra/camera-devicetree" />
+  <project name="kernel/msm-extra/camera-kernel" />
   <project name="kernel/msm-extra/config" />
   <project name="kernel/msm-extra/devicetree" />
   <project name="kernel/msm-extra/drivers" />
