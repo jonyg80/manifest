@@ -911,6 +911,7 @@
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
+  <project name="platform/external/rust/crates/vsock" />
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/which" />
   <project name="platform/external/rust/cxx" />
