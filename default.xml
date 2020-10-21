@@ -901,6 +901,7 @@
   <project name="platform/external/rust/crates/shlex" />
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
+  <project name="platform/external/rust/crates/standback" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
