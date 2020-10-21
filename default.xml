@@ -1733,6 +1733,7 @@
   <project name="platform/test/vts-testcase/performance" />
   <project name="platform/test/vts-testcase/security" />
   <project name="platform/test/vts-testcase/vndk" />
+  <project name="platform/tools/aadevtools" />
   <project name="platform/tools/acloud" />
   <project name="platform/tools/adt/eclipse" />
   <project name="platform/tools/adt/idea" />
