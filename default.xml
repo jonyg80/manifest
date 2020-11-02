@@ -847,6 +847,7 @@
   <project name="platform/external/rust/crates/getrandom" />
   <project name="platform/external/rust/crates/glob" />
   <project name="platform/external/rust/crates/grpcio" />
+  <project name="platform/external/rust/crates/grpcio-compiler" />
   <project name="platform/external/rust/crates/grpcio-sys" />
   <project name="platform/external/rust/crates/heck" />
   <project name="platform/external/rust/crates/instant" />
