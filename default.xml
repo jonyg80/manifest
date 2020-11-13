@@ -1100,6 +1100,7 @@
   <project name="platform/frameworks/opt/vcard" />
   <project name="platform/frameworks/opt/widget" />
   <project name="platform/frameworks/policies/base" />
+  <project name="platform/frameworks/proto_logging" />
   <project name="platform/frameworks/rs" />
   <project name="platform/frameworks/support" />
   <project name="platform/frameworks/support-golden" />
