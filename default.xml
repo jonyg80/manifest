@@ -1804,6 +1804,7 @@
   <project name="platform/tools/tradefed_cluster" />
   <project name="platform/tools/tradefederation" path="platform/tools/tradefederation.git" />
   <project name="platform/tools/tradefederation/contrib" />
+  <project name="platform/tools/tradefederation/prebuilts" />
   <project name="platform/tools/treble" />
   <project name="platform/tools/trebuchet" />
   <project name="platform/vendor/htc/dream-open" />
