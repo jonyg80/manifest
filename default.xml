@@ -1410,6 +1410,7 @@
   <project name="platform/packages/services/BuiltInPrintService" />
   <project name="platform/packages/services/Car" />
   <project name="platform/packages/services/EasService" />
+  <project name="platform/packages/services/Iwlan" />
   <project name="platform/packages/services/LockAndWipe" />
   <project name="platform/packages/services/Mms" />
   <project name="platform/packages/services/Mtp" />
