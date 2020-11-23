@@ -1061,6 +1061,7 @@
   <project name="platform/frameworks/libs/modules-utils" />
   <project name="platform/frameworks/libs/native_bridge_support" />
   <project name="platform/frameworks/libs/net" />
+  <project name="platform/frameworks/libs/service_entitlement" />
   <project name="platform/frameworks/libs/systemui" />
   <project name="platform/frameworks/media/libvideoeditor" />
   <project name="platform/frameworks/mff" />
