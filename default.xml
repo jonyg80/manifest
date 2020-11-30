@@ -1384,6 +1384,7 @@
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SdkExtensions" />
   <project name="platform/packages/modules/Sharesheet" />
+  <project name="platform/packages/modules/StatsD" />
   <project name="platform/packages/modules/TestModule" />
   <project name="platform/packages/modules/Tethering" />
   <project name="platform/packages/modules/Virtualization" />
