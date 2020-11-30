@@ -1309,6 +1309,7 @@
   <project name="platform/packages/apps/HTMLViewer" />
   <project name="platform/packages/apps/IM" />
   <project name="platform/packages/apps/IdentityCredentialSupport" />
+  <project name="platform/packages/apps/ImsServiceEntitlement" />
   <project name="platform/packages/apps/InCallUI" />
   <project name="platform/packages/apps/KeyChain" />
   <project name="platform/packages/apps/Launcher" />
