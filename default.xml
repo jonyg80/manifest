@@ -1332,6 +1332,7 @@
   <project name="platform/packages/apps/Provision" />
   <project name="platform/packages/apps/QuickAccessWallet" />
   <project name="platform/packages/apps/QuickSearchBox" />
+  <project name="platform/packages/apps/RemoteProvisioner" />
   <project name="platform/packages/apps/RetailDemo" />
   <project name="platform/packages/apps/SafetyRegulatoryInfo" />
   <project name="platform/packages/apps/SampleLocationAttribution" />
