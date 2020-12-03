@@ -906,6 +906,7 @@
   <project name="platform/external/rust/crates/regex" />
   <project name="platform/external/rust/crates/regex-syntax" />
   <project name="platform/external/rust/crates/remain" />
+  <project name="platform/external/rust/crates/ring" />
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rustc-hash" />
   <project name="platform/external/rust/crates/ryu" />
