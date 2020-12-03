@@ -898,6 +898,7 @@
   <project name="platform/external/rust/crates/proc-macro2" />
   <project name="platform/external/rust/crates/protobuf" />
   <project name="platform/external/rust/crates/protobuf-codegen" />
+  <project name="platform/external/rust/crates/quiche" />
   <project name="platform/external/rust/crates/quote" />
   <project name="platform/external/rust/crates/rand" />
   <project name="platform/external/rust/crates/rand_chacha" />
