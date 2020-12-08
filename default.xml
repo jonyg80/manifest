@@ -172,6 +172,7 @@
   <project name="kernel/msm-modules" path="kernel/msm-modules.git" />
   <project name="kernel/msm-modules/data-kernel" />
   <project name="kernel/msm-modules/fts_touch" />
+  <project name="kernel/msm-modules/fts_touch_s5" />
   <project name="kernel/msm-modules/qca-wfi-host-cmn" />
   <project name="kernel/msm-modules/qcacld" />
   <project name="kernel/msm-modules/sec_touch" />
