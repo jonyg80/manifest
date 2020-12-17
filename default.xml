@@ -946,6 +946,7 @@
   <project name="platform/external/rust/crates/time-macros" />
   <project name="platform/external/rust/crates/time-macros-impl" />
   <project name="platform/external/rust/crates/tinyvec" />
+  <project name="platform/external/rust/crates/tinyvec_macros" />
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-macros" />
   <project name="platform/external/rust/crates/unicode-bidi" />
