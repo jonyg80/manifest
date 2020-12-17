@@ -849,6 +849,7 @@
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
   <project name="platform/external/rust/crates/fnv" />
+  <project name="platform/external/rust/crates/form_urlencoded" />
   <project name="platform/external/rust/crates/futures" />
   <project name="platform/external/rust/crates/futures-channel" />
   <project name="platform/external/rust/crates/futures-core" />
