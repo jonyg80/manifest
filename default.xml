@@ -1487,6 +1487,7 @@
   <project name="platform/prebuilts/androidx/external" />
   <project name="platform/prebuilts/androidx/internal" />
   <project name="platform/prebuilts/androidx/studio" />
+  <project name="platform/prebuilts/androidx/traceprocessor" />
   <project name="platform/prebuilts/asuite" />
   <project name="platform/prebuilts/au-generator" />
   <project name="platform/prebuilts/bazel/darwin-x86_64" />
