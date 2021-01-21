@@ -1281,6 +1281,7 @@
   <project name="platform/libcore2" />
   <project name="platform/libnativehelper" />
   <project name="platform/manifest" />
+  <project name="platform/media/cts" />
   <project name="platform/motodev" />
   <project name="platform/ndk" />
   <project name="platform/packages/apps/AccountsAndSyncSettings" />
