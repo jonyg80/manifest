@@ -1017,6 +1017,7 @@
   <project name="platform/external/timezone-boundary-builder" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tinyalsa" />
+  <project name="platform/external/tinyalsa_new" />
   <project name="platform/external/tinycompress" />
   <project name="platform/external/tinyobjloader" />
   <project name="platform/external/tinyxml" />
