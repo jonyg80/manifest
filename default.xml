@@ -1775,6 +1775,7 @@
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/app_compat/csuite" />
+  <project name="platform/test/cts-root" />
   <project name="platform/test/framework" />
   <project name="platform/test/mlts/benchmark" />
   <project name="platform/test/mlts/models" />
