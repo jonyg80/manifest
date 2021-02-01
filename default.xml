@@ -186,6 +186,7 @@
   <project name="kernel/prebuilts/5.4/x86-64" />
   <project name="kernel/prebuilts/build-tools" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" />
   <project name="kernel/prebuilts/mainline/arm64" />
   <project name="kernel/samsung" />
   <project name="kernel/tegra" />
