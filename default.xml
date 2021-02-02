@@ -937,6 +937,7 @@
   <project name="platform/external/rust/crates/rand_chacha" />
   <project name="platform/external/rust/crates/rand_core" />
   <project name="platform/external/rust/crates/rand_xorshift" />
+  <project name="platform/external/rust/crates/rayon" />
   <project name="platform/external/rust/crates/regex" />
   <project name="platform/external/rust/crates/regex-syntax" />
   <project name="platform/external/rust/crates/remain" />
