@@ -856,6 +856,7 @@
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
   <project name="platform/external/rust/crates/const_fn" />
+  <project name="platform/external/rust/crates/csv" />
   <project name="platform/external/rust/crates/derive_arbitrary" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/either" />
