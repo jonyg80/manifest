@@ -987,6 +987,7 @@
   <project name="platform/external/rust/crates/untrusted" />
   <project name="platform/external/rust/crates/url" />
   <project name="platform/external/rust/crates/vsock" />
+  <project name="platform/external/rust/crates/walkdir" />
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/which" />
   <project name="platform/external/rust/cxx" />
