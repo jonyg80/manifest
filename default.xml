@@ -858,6 +858,7 @@
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
   <project name="platform/external/rust/crates/const_fn" />
+  <project name="platform/external/rust/crates/criterion" />
   <project name="platform/external/rust/crates/crossbeam-channel" />
   <project name="platform/external/rust/crates/crossbeam-deque" />
   <project name="platform/external/rust/crates/crossbeam-epoch" />
