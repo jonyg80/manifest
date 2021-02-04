@@ -884,6 +884,7 @@
   <project name="platform/external/rust/crates/grpcio" />
   <project name="platform/external/rust/crates/grpcio-compiler" />
   <project name="platform/external/rust/crates/grpcio-sys" />
+  <project name="platform/external/rust/crates/half" />
   <project name="platform/external/rust/crates/hashbrown" />
   <project name="platform/external/rust/crates/hashlink" />
   <project name="platform/external/rust/crates/heck" />
