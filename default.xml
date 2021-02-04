@@ -933,6 +933,7 @@
   <project name="platform/external/rust/crates/pin-utils" />
   <project name="platform/external/rust/crates/plotters" />
   <project name="platform/external/rust/crates/plotters-backend" />
+  <project name="platform/external/rust/crates/plotters-svg" />
   <project name="platform/external/rust/crates/ppv-lite86" />
   <project name="platform/external/rust/crates/proc-macro-error" />
   <project name="platform/external/rust/crates/proc-macro-error-attr" />
