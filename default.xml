@@ -143,7 +143,6 @@
   <project name="device/ti/beagle-x15-kernel" />
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
-  <project name="external/rust/crates/rayon-core" />
   <project name="kernel/arm64" />
   <project name="kernel/build" />
   <project name="kernel/common" />
