@@ -206,6 +206,7 @@
   <project name="platform/bionic" />
   <project name="platform/bootable/bootloader/legacy" />
   <project name="platform/bootable/diskinstaller" />
+  <project name="platform/bootable/libbootloader" />
   <project name="platform/bootable/recovery" />
   <project name="platform/build" path="platform/build.git" />
   <project name="platform/build/bazel" />
