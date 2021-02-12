@@ -849,6 +849,7 @@
   <project name="platform/external/rust/crates/bincode" />
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
+  <project name="platform/external/rust/crates/bstr" />
   <project name="platform/external/rust/crates/byteorder" />
   <project name="platform/external/rust/crates/bytes" />
   <project name="platform/external/rust/crates/bzip2" />
