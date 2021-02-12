@@ -852,6 +852,7 @@
   <project name="platform/external/rust/crates/byteorder" />
   <project name="platform/external/rust/crates/bytes" />
   <project name="platform/external/rust/crates/bzip2" />
+  <project name="platform/external/rust/crates/bzip2-sys" />
   <project name="platform/external/rust/crates/cast" />
   <project name="platform/external/rust/crates/cexpr" />
   <project name="platform/external/rust/crates/cfg-if" />
