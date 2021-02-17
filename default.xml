@@ -845,6 +845,7 @@
   <project name="platform/external/rust/crates/anyhow" />
   <project name="platform/external/rust/crates/arbitrary" />
   <project name="platform/external/rust/crates/async-stream" />
+  <project name="platform/external/rust/crates/async-stream-impl" />
   <project name="platform/external/rust/crates/async-task" />
   <project name="platform/external/rust/crates/async-trait" />
   <project name="platform/external/rust/crates/atty" />
