@@ -1012,6 +1012,7 @@
   <project name="platform/external/rust/crates/which" />
   <project name="platform/external/rust/crates/zip" />
   <project name="platform/external/rust/cxx" />
+  <project name="platform/external/ruy" />
   <project name="platform/external/safe-iop" />
   <project name="platform/external/scapy" />
   <project name="platform/external/scrypt" />
