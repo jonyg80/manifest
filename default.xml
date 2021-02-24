@@ -993,6 +993,7 @@
   <project name="platform/external/rust/crates/time" />
   <project name="platform/external/rust/crates/time-macros" />
   <project name="platform/external/rust/crates/time-macros-impl" />
+  <project name="platform/external/rust/crates/tinytemplate" />
   <project name="platform/external/rust/crates/tinyvec" />
   <project name="platform/external/rust/crates/tinyvec_macros" />
   <project name="platform/external/rust/crates/tokio" />
