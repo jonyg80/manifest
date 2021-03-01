@@ -195,6 +195,7 @@
   <project name="kernel/prebuilts/common-modules/virtual-device/mainline/x86-64" />
   <project name="kernel/prebuilts/mainline/arm64" />
   <project name="kernel/samsung" />
+  <project name="kernel/superproject" />
   <project name="kernel/tegra" />
   <project name="kernel/tests" />
   <project name="kernel/x86" />
