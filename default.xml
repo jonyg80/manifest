@@ -922,6 +922,7 @@
   <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
+  <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/memchr" />
