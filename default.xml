@@ -145,6 +145,7 @@
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
   <project name="kernel/amlogic-tv-modules/dhd-driver" />
+  <project name="kernel/amlogic-tv-modules/mali-driver" />
   <project name="kernel/arm64" />
   <project name="kernel/build" />
   <project name="kernel/common" />
