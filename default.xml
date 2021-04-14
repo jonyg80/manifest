@@ -219,6 +219,7 @@
   <project name="platform/build/blueprint" />
   <project name="platform/build/docker" />
   <project name="platform/build/kati" />
+  <project name="platform/build/pesto" />
   <project name="platform/build/soong" />
   <project name="platform/compatibility/cdd" />
   <project name="platform/cts" />
