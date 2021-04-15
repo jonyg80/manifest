@@ -378,6 +378,7 @@
   <project name="platform/external/collada" />
   <project name="platform/external/compiler-rt" />
   <project name="platform/external/compiler-rt_35a" />
+  <project name="platform/external/connectedappssdk" />
   <project name="platform/external/conscrypt" />
   <project name="platform/external/cpu_features" />
   <project name="platform/external/cpuinfo" />
