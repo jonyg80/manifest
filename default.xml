@@ -1728,6 +1728,7 @@
   <project name="platform/prebuilts/maven_repo/bumptech" />
   <project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
   <project name="platform/prebuilts/misc" />
+  <project name="platform/prebuilts/module_sdk/Connectivity" />
   <project name="platform/prebuilts/module_sdk/art" />
   <project name="platform/prebuilts/module_sdk/conscrypt" />
   <project name="platform/prebuilts/ndk" />
