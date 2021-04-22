@@ -1731,6 +1731,7 @@
   <project name="platform/prebuilts/module_sdk/Connectivity" />
   <project name="platform/prebuilts/module_sdk/IPsec" />
   <project name="platform/prebuilts/module_sdk/Media" />
+  <project name="platform/prebuilts/module_sdk/MediaProvider" />
   <project name="platform/prebuilts/module_sdk/art" />
   <project name="platform/prebuilts/module_sdk/conscrypt" />
   <project name="platform/prebuilts/ndk" />
