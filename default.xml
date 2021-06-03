@@ -739,6 +739,7 @@
   <project name="platform/external/okio" />
   <project name="platform/external/one-true-awk" />
   <project name="platform/external/open-vcdiff" />
+  <project name="platform/external/opencensus-go" />
   <project name="platform/external/opencensus-java" />
   <project name="platform/external/opencore" />
   <project name="platform/external/opencv" />
