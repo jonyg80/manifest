@@ -477,6 +477,7 @@
   <project name="platform/external/golang-protobuf" />
   <project name="platform/external/golang-x-oauth2" />
   <project name="platform/external/golang-x-sync" />
+  <project name="platform/external/golang-x-text" />
   <project name="platform/external/golang-x-tools" />
   <project name="platform/external/google-api-services-storage" />
   <project name="platform/external/google-benchmark" />
