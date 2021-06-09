@@ -479,6 +479,7 @@
   <project name="platform/external/golang-x-net" />
   <project name="platform/external/golang-x-oauth2" />
   <project name="platform/external/golang-x-sync" />
+  <project name="platform/external/golang-x-sys" />
   <project name="platform/external/golang-x-text" />
   <project name="platform/external/golang-x-tools" />
   <project name="platform/external/google-api-go-client" />
