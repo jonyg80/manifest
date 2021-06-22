@@ -720,6 +720,7 @@
   <project name="platform/external/ms-tpm-20-ref" />
   <project name="platform/external/mtools" />
   <project name="platform/external/mtpd" />
+  <project name="platform/external/musl" />
   <project name="platform/external/nanohttpd" />
   <project name="platform/external/nanopb-c" />
   <project name="platform/external/nasm" />
