@@ -1146,6 +1146,7 @@
   <project name="platform/external/webrtc" />
   <project name="platform/external/webrtc_legacy" />
   <project name="platform/external/webview_support_interfaces" />
+  <project name="platform/external/wmediumd" />
   <project name="platform/external/wpa_supplicant" />
   <project name="platform/external/wpa_supplicant_6" />
   <project name="platform/external/wpa_supplicant_8" />
