@@ -1001,6 +1001,7 @@
   <project name="platform/external/rust/crates/rustc-demangle" />
   <project name="platform/external/rust/crates/rustc-demangle-capi" />
   <project name="platform/external/rust/crates/rustc-hash" />
+  <project name="platform/external/rust/crates/rusticata-macros" />
   <project name="platform/external/rust/crates/rustversion" />
   <project name="platform/external/rust/crates/ryu" />
   <project name="platform/external/rust/crates/same-file" />
