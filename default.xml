@@ -1052,6 +1052,7 @@
   <project name="platform/external/rust/crates/vulkano" />
   <project name="platform/external/rust/crates/walkdir" />
   <project name="platform/external/rust/crates/weak-table" />
+  <project name="platform/external/rust/crates/webpki" />
   <project name="platform/external/rust/crates/which" />
   <project name="platform/external/rust/crates/xml-rs" />
   <project name="platform/external/rust/crates/zip" />
