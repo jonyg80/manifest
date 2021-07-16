@@ -148,6 +148,7 @@
   <project name="kernel/amlogic-tv-modules/mali-driver" />
   <project name="kernel/amlogic-tv-modules/media_modules" />
   <project name="kernel/amlogic-tv-modules/optee_linuxdriver" />
+  <project name="kernel/amlogic-tv-modules/wifi_rtl8822BS" />
   <project name="kernel/arm64" />
   <project name="kernel/build" />
   <project name="kernel/common" />
