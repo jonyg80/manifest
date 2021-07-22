@@ -1060,6 +1060,7 @@
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/webpki" />
   <project name="platform/external/rust/crates/which" />
+  <project name="platform/external/rust/crates/x509-parser" />
   <project name="platform/external/rust/crates/xml-rs" />
   <project name="platform/external/rust/crates/zip" />
   <project name="platform/external/rust/cxx" />
