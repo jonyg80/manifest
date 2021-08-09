@@ -889,6 +889,7 @@
   <project name="platform/external/rust/crates/bzip2" />
   <project name="platform/external/rust/crates/bzip2-sys" />
   <project name="platform/external/rust/crates/cast" />
+  <project name="platform/external/rust/crates/cesu8" />
   <project name="platform/external/rust/crates/cexpr" />
   <project name="platform/external/rust/crates/cfg-if" />
   <project name="platform/external/rust/crates/chrono" />
