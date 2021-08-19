@@ -946,6 +946,7 @@
   <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itertools" />
   <project name="platform/external/rust/crates/itoa" />
+  <project name="platform/external/rust/crates/jni" />
   <project name="platform/external/rust/crates/jni-sys" />
   <project name="platform/external/rust/crates/kernlog" />
   <project name="platform/external/rust/crates/lazy_static" />
