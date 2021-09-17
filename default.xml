@@ -2044,6 +2044,7 @@
   <project name="toolchain/mingw" />
   <project name="toolchain/mpc" />
   <project name="toolchain/mpfr" />
+  <project name="toolchain/ndk-kokoro" />
   <project name="toolchain/ndk_chromite_config" />
   <project name="toolchain/openmp_llvm" />
   <project name="toolchain/perl" />
