@@ -1178,6 +1178,7 @@
   <project name="platform/external/wpa_supplicant_6" />
   <project name="platform/external/wpa_supplicant_8" />
   <project name="platform/external/wpantund" />
+  <project name="platform/external/wuffs-mirror-release-c" />
   <project name="platform/external/wycheproof" />
   <project name="platform/external/x264" />
   <project name="platform/external/xdelta3" />
