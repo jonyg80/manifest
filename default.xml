@@ -752,6 +752,7 @@
   <project name="platform/external/oauth" />
   <project name="platform/external/objenesis" />
   <project name="platform/external/oboe" />
+  <project name="platform/external/obstack" />
   <project name="platform/external/oj-libjdwp" />
   <project name="platform/external/okhttp" />
   <project name="platform/external/okhttp4" />
