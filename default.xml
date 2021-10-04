@@ -455,6 +455,7 @@
   <project name="platform/external/ffmpeg" />
   <project name="platform/external/fft2d" />
   <project name="platform/external/fio" />
+  <project name="platform/external/firebase-messaging" />
   <project name="platform/external/flac" />
   <project name="platform/external/flashbench" />
   <project name="platform/external/flatbuffers" />
