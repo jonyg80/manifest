@@ -474,6 +474,7 @@
   <project name="platform/external/gentoo/integration" />
   <project name="platform/external/gentoo/overlays/gentoo" />
   <project name="platform/external/gentoo/portage" />
+  <project name="platform/external/geojson-jackson" />
   <project name="platform/external/gflags" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
