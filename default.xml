@@ -561,6 +561,7 @@
   <project name="platform/external/jack" />
   <project name="platform/external/jackson-annotations" />
   <project name="platform/external/jackson-core" />
+  <project name="platform/external/jackson-databind" />
   <project name="platform/external/jacoco" />
   <project name="platform/external/jarjar" />
   <project name="platform/external/javaparser" />
