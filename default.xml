@@ -1447,6 +1447,7 @@
   <project name="platform/packages/apps/Car/Radio" />
   <project name="platform/packages/apps/Car/RotaryController" />
   <project name="platform/packages/apps/Car/Settings" />
+  <project name="platform/packages/apps/Car/SettingsIntelligence" />
   <project name="platform/packages/apps/Car/Stream" />
   <project name="platform/packages/apps/Car/SystemUpdater" />
   <project name="platform/packages/apps/Car/Templates" />
