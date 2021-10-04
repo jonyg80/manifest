@@ -1930,6 +1930,7 @@
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/app_compat/csuite" />
+  <project name="platform/test/catbox" />
   <project name="platform/test/cts-root" />
   <project name="platform/test/dittosuite" />
   <project name="platform/test/framework" />
