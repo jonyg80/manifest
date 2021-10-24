@@ -61,14 +61,11 @@
   <project name="platform/packages/modules/GeoTZ" />
   <project name="platform/packages/modules/Gki" />
   <project name="platform/packages/modules/IPsec" />
-  <project name="platform/packages/modules/Media" />
-  <project name="platform/packages/modules/MediaSwCodec" />
   <project name="platform/packages/modules/ModuleMetadata" />
   <project name="platform/packages/modules/NetworkPermissionConfig" />
   <project name="platform/packages/modules/NetworkStack" />
   <project name="platform/packages/modules/NeuralNetworks" />
   <project name="platform/packages/modules/Permission" />
-  <project name="platform/packages/modules/PermissionController" />
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SEPolicy" />
   <project name="platform/packages/modules/Scheduling" />
