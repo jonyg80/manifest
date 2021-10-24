@@ -65,7 +65,6 @@
   <project name="kernel/amlogic-tv-modules/wifi_rtl8822BS" />
   <project name="kernel/arm64" />
   <project name="kernel/build" />
-  <project name="kernel/common" />
   <project name="kernel/common-modules/virtual-device" />
   <project name="kernel/common-patches" />
   <project name="kernel/configs" />
